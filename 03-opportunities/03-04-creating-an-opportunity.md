@@ -15,8 +15,6 @@ Organisation Admins create opportunities from within the partner portal on yoma.
 
 ![[Add oportunity navigate to.gif]]
 
-![Annotated diagram of the opportunity creation form showing all required and optional fields](../images/opportunity-creation-form-p7k1.png)
-
 ## Core Details
 
 **Title** — The name of the opportunity as youth will see it in the marketplace. Keep it specific and action-oriented: "Water Quality Monitoring in Bridgetown" works better than "Environmental Volunteer Opportunity." Youth scan titles quickly; make yours easy to understand at a glance.
