@@ -35,6 +35,29 @@ For most deployments, use **manual review as the default** and reserve verificat
 
 > ⚠️ **Important:** Verification links can be forwarded. If a youth shares a link with someone who didn't attend, that person can claim the credential. Only use this method when you have reasonable confidence in the distribution channel — for example, a QR code displayed on a screen at a live event that can only be scanned in person.
 
+### Creating a Verification Link
+
+The following steps show how to generate and share a verification link for an in-person opportunity:
+
+## step one: 
+
+Navigation to where you can find where to create a verification link.  This is found under the Organisations page --> and then under Links on the top bar and then  --> Add Link as shown 
+
+![[Navigate to creating a verfication link.gif]]
+
+## Step two: 
+
+Showing what you need to fill in to create your link. You will give your link a unique reference that only you will see and a description that the youth will see once they click and open the link. 
+
+![[Verification link generation step one create link.gif]]
+
+## Step 3: 
+
+Doing link permissions and sharing your link with youth. This show is creating a verification link that's earmarked for a specific user using their email. Only the user with the associated email will be able to access this verification link. All links can be shared by generating a link or a QR code. 
+
+![[Verification deep link step 2 generating and sharing .gif]]
+
+
 ## Batch Verification
 
 For opportunities with large numbers of participants, Organisation Admins can verify submissions in batches rather than one at a time. This is particularly useful for programmes where the evidence format is standardised — for example, where all participants upload the same type of certificate or structured data record.

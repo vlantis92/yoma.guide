@@ -41,7 +41,13 @@ All data is self-reported. There is no mechanism to verify age against an extern
 
 On completing the profile, a YoID (Yoma Digital Identity) is created automatically. The youth lands in the opportunity marketplace and can immediately browse and apply for available opportunities.
 
-The YoID is the youth's permanent, portable digital record on the platform. It accumulates Verifiable Credentials as they complete opportunities, and they can share it externally with employers, universities, or other institutions. For more on how credentials work, see [Credentials and Skills](../03-opportunities/03-07-credentials-and-skills.md).
+![[Oportunity Marketplac find and filter.gif]]
+
+The YoID is the youth's permanent, portable digital record on the platform. As they complete opportunities, their credential history builds up in their YoID wallet.
+
+![[YoID credentails wallet and skills.gif]]
+
+ It accumulates Verifiable Credentials as they complete opportunities, and they can share it externally with employers, universities, or other institutions. For more on how credentials work, see [Credentials and Skills](../03-opportunities/03-07-credentials-and-skills.md).
 
 ## Keeping Onboarding Fast
 

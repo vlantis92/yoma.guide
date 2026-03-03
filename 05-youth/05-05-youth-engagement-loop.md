@@ -25,11 +25,15 @@ Understanding failure points lets you diagnose engagement problems and intervene
 
 **Sign-up to Discovery:** Youth register but don't explore the opportunity marketplace. This is often a first-impression issue — the marketplace doesn't immediately surface anything that matches their interests or context. Remedy: ensure your first batch of listings covers enough variety to appeal to different youth profiles, and communicate directly to newly registered youth what's available and why it's worth their time.
 
+![[Oportunity Marketplac find and filter.gif]]
+
 **Discovery to Completion:** Youth browse but don't commit to an activity. Opportunities may feel too complex, too time-consuming, or too unclear about what proof of completion looks like. Remedy: make sure all listings have specific, achievable completion criteria and realistic duration estimates. A low-effort on-ramp opportunity — something completable in under 30 minutes — reduces the barrier to first attempt.
 
 **Completion to Earning:** Youth submit proof but don't receive Zlto promptly because verification is slow or completions are rejected without clear guidance. Remedy: manage verification turnaround to 48 hours or better; provide rejection reasons that help youth understand what to resubmit. See [Verification Workflows](../03-opportunities/03-06-verification-workflows.md) for operational guidance.
 
 **Earning to Redeeming:** Youth accumulate Zlto but don't spend it. This is typically a rewards catalogue problem — not enough variety, nothing the youth actually wants, or everything requiring more Zlto than they've earned so far. Remedy: ensure the catalogue includes accessible rewards (low Zlto, quick wins) alongside aspirational ones. A youth who can redeem something modest with their first few completions has a reason to continue.
+
+![[Rewards Marketplace.gif]]
 
 **Redeeming to Returning:** Youth redeem once but don't come back. This is the hardest loop closure to engineer — it depends on new content being available and the youth being made aware of it. Remedy: regular new opportunity listings, proactive communications about what's new, and re-engagement nudges. See [Notifications and Re-Engagement](05-06-notifications-and-re-engagement.md).
 

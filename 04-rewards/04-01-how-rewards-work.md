@@ -25,6 +25,8 @@ From a youth's perspective, the rewards marketplace is simple:
 
 ![Diagram showing the Zlto rewards redemption flow from opportunity completion to reward receipt](../images/rewards-redemption-flow-r7m2.png)
 
+![[Rewards Marketplace.gif]]
+
 > ℹ️ **Note:** Youth may ask why their Zlto hasn't appeared yet after a completion is approved. The pending state is normal platform behaviour — not an error — and resolves automatically within 24 hours. Let youth and partners know to expect this so it doesn't generate unnecessary support queries.
 
 Youth can also **save up Zlto** across multiple opportunities to reach the threshold for higher-value rewards — university scholarship access, for example, is typically listed at a high Zlto amount that requires sustained engagement over time.
