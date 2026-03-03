@@ -49,16 +49,6 @@
 * [Notifications and Re-Engagement](05-youth/05-06-notifications-and-re-engagement.md)
 * [Measuring Youth Engagement](05-youth/05-07-measuring-youth-engagement.md)
 
-## Operations
-
-* [Team Structure](06-operations/06-01-team-structure.md)
-* [Partner Support Model](06-operations/06-02-partner-support-model.md)
-* [Data and Reporting](06-operations/06-03-data-and-reporting.md)
-* [Governance and Compliance](06-operations/06-04-governance-and-compliance.md)
-* [Working with Government](06-operations/06-05-working-with-government.md)
-* [Scaling Beyond Pilot](06-operations/06-06-scaling-beyond-pilot.md)
-* [Common Pitfalls](06-operations/06-07-common-pitfalls.md)
-
 ## Reference
 
 * [Glossary](07-reference/07-01-glossary.md)

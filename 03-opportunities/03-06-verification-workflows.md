@@ -24,14 +24,15 @@ The core workflow has four steps:
 
 ## Verification Methods
 
-There are two approaches to verification, and you can use both within the same deployment:
+There are three approaches to verification, and you can use any combination within the same deployment:
 
-| Method | How it works | Best for | Trade-off |
-|--------|-------------|----------|-----------|
-| **Manual review** | Youth upload evidence; admin reviews and approves/rejects individually or in batches | High-value opportunities where proof of quality matters | More secure, but slower and labour-intensive |
-| **Verification links / QR codes** | Partner generates a link or QR code; youth scan or click to auto-claim the credential | Events, workshops, in-person activities where attendance is the proof | Fast and frictionless, but links can be shared — less secure |
+| Method                                    | How it works                                                                                                                                                                                | Best for                                                                                                          | Trade-off                                                                                              |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Manual review**                         | Youth upload evidence; admin reviews and approves/rejects individually or in batches                                                                                                        | High-value opportunities where proof of quality matters                                                           | More secure, but slower and labour-intensive                                                           |
+| **Open verification link / QR code**      | Partner generates a link or QR code; any youth who scans or clicks it auto-claims the credential                                                                                            | Events and in-person activities where attendance is the proof and distribution can be controlled                  | Fast and frictionless, but the link can be forwarded — anyone with it can claim the credential         |
+| **Email-targeted verification link**      | Partner inputs a list of specific email addresses; a unique link is generated that only opens for Yoma accounts registered to those emails. Shareable as a link or QR code per participant | Post-event credentialling from an attendance register, RSVP list, or learner management system export            | Targeted and more secure than open links; requires having youth email addresses collected in advance   |
 
-For most deployments, use **manual review as the default** and reserve verification links for in-person events where you can control distribution.
+For most deployments, use **manual review as the default**. Use open verification links for in-person events where you control distribution, and email-targeted links where you have a confirmed attendee list and want to prevent link-sharing.
 
 > ⚠️ **Important:** Verification links can be forwarded. If a youth shares a link with someone who didn't attend, that person can claim the credential. Only use this method when you have reasonable confidence in the distribution channel — for example, a QR code displayed on a screen at a live event that can only be scanned in person.
 

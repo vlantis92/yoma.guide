@@ -25,12 +25,11 @@ From a youth's perspective, the rewards marketplace is simple:
 
 ![Diagram showing the Zlto rewards redemption flow from opportunity completion to reward receipt](../images/rewards-redemption-flow-r7m2.png)
 
-![[Rewards Marketplace.gif]]
-
 > ℹ️ **Note:** Youth may ask why their Zlto hasn't appeared yet after a completion is approved. The pending state is normal platform behaviour — not an error — and resolves automatically within 24 hours. Let youth and partners know to expect this so it doesn't generate unnecessary support queries.
 
 Youth can also **save up Zlto** across multiple opportunities to reach the threshold for higher-value rewards — university scholarship access, for example, is typically listed at a high Zlto amount that requires sustained engagement over time.
 
+![[Rewards Marketplace.gif]]
 ## Stock Counts and Availability
 
 Where rewards are limited in quantity — a batch of airtime vouchers, for instance, or a fixed number of event places — the marketplace displays a **stock count**. Youth can see how many remain. Once a reward is fully redeemed, it disappears from the catalogue until stock is refreshed.
@@ -57,11 +56,11 @@ In the Philippines, free weekend workshops were listed as rewards. Youth spent Z
 
 One thing that catches new deployers off-guard: **all reward listings are created and managed by the Zlto team (zlto.co)** — a separate organisation from Yoma. Your implementing organisation doesn't configure rewards directly in the platform. Instead, you establish the relationship with a reward partner, agree the terms, and pass the details (voucher codes, Zlto pricing, stock levels) to the Zlto team, who build and manage the listing.
 
-This is a key operational dependency. Plan for it, build the relationship with the Zlto team early, and factor their turnaround time into your launch timeline. [Working with the Zlto Team](04-04-working-with-the-zlto-team.md) covers this workflow in full.
+This is a key operational dependency. Plan for it, build the relationship with the Zlto team early, and factor their turnaround time into your launch timeline. [[04-04-working-with-the-zloto-team]] covers this workflow in full.
 
 ## Related
 
-- [Key Concepts](../01-overview/01-03-key-concepts.md)
+There is a link under Rewards for number 1, "How Rewards Work" at the bottom, which is linking to "Work with the Zlato Teams", which should take you to 4.4 "Working with the Zlato Teams". There's an extra file called "Working with the Zlato Teams" that is outside of the rewards file. Could you delete the spare file and then relink "Working with the Zlato Team"? - [Key Concepts](../01-overview/01-03-key-concepts.md)
 - [Types of Rewards](04-03-types-of-rewards.md)
 - [Working with the Zlto Team](04-04-working-with-the-zloto-team.md)
 - [Youth Engagement Loop](../05-youth/05-05-youth-engagement-loop.md)
