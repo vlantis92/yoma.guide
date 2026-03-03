@@ -15,7 +15,7 @@ The Yoma engagement loop has six stages:
 5. **Redeem** — Youth spend their Zlto on a reward from the rewards marketplace
 6. **Return** — The reward experience and awareness of new opportunities drives re-entry into the loop
 
-![Diagram of the six-stage youth engagement loop](../images/youth-engagement-loop-e3l5.png)
+![Diagram of the six-stage youth engagement loop](../.gitbook/assets/youth-engagement-loop-e3l5.png)
 
 Each stage depends on the previous one functioning well. A youth who can't find relevant opportunities never reaches completion. A youth who earns Zlto but finds no desirable rewards never redeems. A youth who has nothing new to discover after their first redemption does not return.
 
@@ -25,7 +25,7 @@ Understanding failure points lets you diagnose engagement problems and intervene
 
 **Sign-up to Discovery:** Youth register but don't explore the opportunity marketplace. This is often a first-impression issue — the marketplace doesn't immediately surface anything that matches their interests or context. Remedy: ensure your first batch of listings covers enough variety to appeal to different youth profiles, and communicate directly to newly registered youth what's available and why it's worth their time.
 
-![](<../images/Oportunity Marketplac find and filter.gif>)
+![](<../.gitbook/assets/Oportunity%20Marketplac%20find%20and%20filter.gif>)
 
 **Discovery to Completion:** Youth browse but don't commit to an activity. Opportunities may feel too complex, too time-consuming, or too unclear about what proof of completion looks like. Remedy: make sure all listings have specific, achievable completion criteria and realistic duration estimates. A low-effort on-ramp opportunity — something completable in under 30 minutes — reduces the barrier to first attempt.
 
@@ -33,7 +33,7 @@ Understanding failure points lets you diagnose engagement problems and intervene
 
 **Earning to Redeeming:** Youth accumulate Zlto but don't spend it. This is typically a rewards catalogue problem — not enough variety, nothing the youth actually wants, or everything requiring more Zlto than they've earned so far. Remedy: ensure the catalogue includes accessible rewards (low Zlto, quick wins) alongside aspirational ones. A youth who can redeem something modest with their first few completions has a reason to continue.
 
-![](<../images/Rewards Marketplace.gif>)
+![](<../.gitbook/assets/Rewards%20Marketplace.gif>)
 
 **Redeeming to Returning:** Youth redeem once but don't come back. This is the hardest loop closure to engineer — it depends on new content being available and the youth being made aware of it. Remedy: regular new opportunity listings, proactive communications about what's new, and re-engagement nudges. See [Notifications and Re-Engagement](05-06-notifications-and-re-engagement.md).
 

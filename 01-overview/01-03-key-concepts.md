@@ -46,7 +46,7 @@ Under SSI, the individual holds their own verifiable identity data. In Yoma's mo
 
 Practically, this means: a Verifiable Credential issued by an NGO in Nigeria can be shared by the youth with a university in another country, who can independently verify it on the blockchain without contacting the issuing NGO. The youth's record travels with them.
 
-![Diagram showing the Self-Sovereign Identity model: youth at the centre, controlling credentials issued by multiple organisations and shared with multiple verifiers](../images/ssi-concept-diagram-y5k9.png)
+![Diagram showing the Self-Sovereign Identity model: youth at the centre, controlling credentials issued by multiple organisations and shared with multiple verifiers](../.gitbook/assets/ssi-concept-diagram-y5k9.png)
 
 ## The Zlto Team
 

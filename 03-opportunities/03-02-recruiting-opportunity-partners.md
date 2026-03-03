@@ -23,7 +23,7 @@ The context document identifies ten partner categories relevant to most markets.
 
 Start with organisations where you already have relationships. A warm introduction from a mutual stakeholder converts significantly better than cold outreach. Use your [Stakeholder Mapping](../02-getting-started/02-03-stakeholder-mapping.md) to identify which prospects have existing connections to your organisation or government sponsors.
 
-![Diagram showing the opportunity partner recruitment pipeline from prospect identification to first live opportunity listing](../images/opportunity-partner-pipeline-w3r8.png)
+![Diagram showing the opportunity partner recruitment pipeline from prospect identification to first live opportunity listing](../.gitbook/assets/opportunity-partner-pipeline-w3r8.png)
 
 ## The Value Proposition
 

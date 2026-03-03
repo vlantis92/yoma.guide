@@ -17,7 +17,7 @@ Before any opportunities can be listed or youth engaged, your implementing organ
 5. **Await approval.** Applications are reviewed within 48 business hours. You'll receive confirmation via email when your account is approved.
 6. **Access granted.** The person who submitted the application receives Organisation Admin access. You can then log in and begin configuring your profile and creating opportunities.
 
-![Step-by-step diagram of the implementing organisation registration and approval process](../images/org-registration-flow-r5j1.png)
+![Step-by-step diagram of the implementing organisation registration and approval process](../.gitbook/assets/org-registration-flow-r5j1.png)
 
 > ℹ️ **Note:** If your organisation is operating under an existing umbrella agreement with UNICEF or another global partner, you may not need to submit a standalone application. Check with your UNICEF or GenU contact whether your deployment is already covered. FutureBARBADOS, for example, operates under the UNICEF global agreement with Yoma and did not require a separate contract.
 

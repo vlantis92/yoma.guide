@@ -23,13 +23,13 @@ From a youth's perspective, the rewards marketplace is simple:
 5. **Confirm the redemption** — Zlto is deducted from the balance immediately. The balance reflects the change in real time.
 6. **Receive the reward** — delivery depends on the reward type. Voucher codes are issued automatically; other reward types (such as event RSVPs) are fulfilled separately. See [Types of Rewards](04-03-types-of-rewards.md) for the full breakdown.
 
-![Diagram showing the Zlto rewards redemption flow from opportunity completion to reward receipt](../images/rewards-redemption-flow-r7m2.png)
+![Diagram showing the Zlto rewards redemption flow from opportunity completion to reward receipt](../.gitbook/assets/rewards-redemption-flow-r7m2.png)
 
 > ℹ️ **Note:** Youth may ask why their Zlto hasn't appeared yet after a completion is approved. The pending state is normal platform behaviour — not an error — and resolves automatically within 24 hours. Let youth and partners know to expect this so it doesn't generate unnecessary support queries.
 
 Youth can also **save up Zlto** across multiple opportunities to reach the threshold for higher-value rewards — university scholarship access, for example, is typically listed at a high Zlto amount that requires sustained engagement over time.
 
-![](<../images/Rewards Marketplace.gif>)
+![](<../.gitbook/assets/Rewards%20Marketplace.gif>)
 ## Stock Counts and Availability
 
 Where rewards are limited in quantity — a batch of airtime vouchers, for instance, or a fixed number of event places — the marketplace displays a **stock count**. Youth can see how many remain. Once a reward is fully redeemed, it disappears from the catalogue until stock is refreshed.

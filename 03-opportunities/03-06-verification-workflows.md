@@ -18,7 +18,7 @@ The core workflow has four steps:
 3. **The admin approves or rejects** the submission. If rejected, the youth is notified with a reason and can resubmit.
 4. **On approval**, Zlto tokens are awarded to the youth's balance and a Verifiable Credential is issued to their YoID — both happen automatically.
 
-![Flowchart showing the four-step verification process from youth submission to credential issuance](../images/verification-workflow-a3f7.png)
+![Flowchart showing the four-step verification process from youth submission to credential issuance](../.gitbook/assets/verification-workflow-a3f7.png)
 
 > 💡 **Tip:** Aim to verify submissions within 48 hours. In existing deployments, youth engagement drops significantly when verification takes longer than a week.
 
@@ -44,19 +44,19 @@ The following steps show how to generate and share a verification link for an in
 
 Navigation to where you can find where to create a verification link.  This is found under the Organisations page --> and then under Links on the top bar and then  --> Add Link as shown 
 
-![](<../images/Navigate to creating a verfication link.gif>)
+![](<../.gitbook/assets/Navigate%20to%20creating%20a%20verfication%20link.gif>)
 
 ## Step two: 
 
 Showing what you need to fill in to create your link. You will give your link a unique reference that only you will see and a description that the youth will see once they click and open the link. 
 
-![](<../images/Verification link generation step one create link.gif>)
+![](<../.gitbook/assets/Verification%20link%20generation%20step%20one%20create%20link.gif>)
 
 ## Step 3: 
 
 Doing link permissions and sharing your link with youth. This show is creating a verification link that's earmarked for a specific user using their email. Only the user with the associated email will be able to access this verification link. All links can be shared by generating a link or a QR code. 
 
-![](<../images/Verification deep link step 2 generating and sharing .gif>)
+![](<../.gitbook/assets/Verification%20deep%20link%20step%202%20generating%20and%20sharing%20.gif>)
 
 
 ## Batch Verification

@@ -25,7 +25,7 @@ RLabs and the Yoma team provide:
 
 ## What the Implementing Organisation Must Build
 
-![Diagram showing the split of responsibilities between Yoma/RLabs and the local implementing organisation](../images/deployer-responsibility-split-d2m6.png)
+![Diagram showing the split of responsibilities between Yoma/RLabs and the local implementing organisation](../.gitbook/assets/deployer-responsibility-split-d2m6.png)
 
 Everything local is the implementing organisation's responsibility:
 

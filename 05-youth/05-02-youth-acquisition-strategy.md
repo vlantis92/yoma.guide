@@ -34,7 +34,7 @@ Launch events, community days, and pop-up activations are effective for generati
 
 Peer referral is consistently the most trusted acquisition channel — and the hardest to engineer. It emerges naturally when youth have a genuinely positive early experience: earning Zlto and redeeming a desirable reward. You can accelerate this with a structured ambassador programme. See [Ambassador Programmes](05-03-ambassador-programmes.md) for the mechanics.
 
-![Diagram showing the five acquisition channels and their relative characteristics in terms of reach, trust, and effort](../images/acquisition-channels-f4y2.png)
+![Diagram showing the five acquisition channels and their relative characteristics in terms of reach, trust, and effort](../.gitbook/assets/acquisition-channels-f4y2.png)
 
 ## The Role of Incentives in Early Acquisition
 

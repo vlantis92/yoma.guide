@@ -23,7 +23,7 @@ All opportunities on Yoma — regardless of type — currently issue a Verifiabl
 
 The default schema records the core facts of a verified completion: who completed it, which opportunity they completed, which organisation issued it, when it was verified, and which skills tags were attached. The opportunity type (Learning, Volunteering/Impact, or Employment/Livelihoods) is also recorded within the credential data, providing categorisation context without requiring a separate schema.
 
-![Diagram showing all three opportunity types converging through verification to a single Verifiable Credential recorded on the youth's YoID](../images/yoid-credential-flow-x9m2.png)
+![Diagram showing all three opportunity types converging through verification to a single Verifiable Credential recorded on the youth's YoID](../.gitbook/assets/yoid-credential-flow-x9m2.png)
 
 A youth who completes many opportunities accumulates a growing collection of credentials on their YoID — each one distinct by the opportunity it records, the organisation that issued it, and the skills tags attached. The credential schema is the same; the content of each credential is what varies.
 
@@ -50,9 +50,9 @@ A youth's YoID is their portable record of everything they've achieved on Yoma. 
 - **Direct sharing** — youth can share a link to their YoID record with specific individuals or organisations
 - **Credential verification** — third parties with the link can verify the authenticity of any credential on the record, confirmed against the blockchain
 
-![](<../images/YoID credentails wallet and skills.gif>)
+![](<../.gitbook/assets/YoID%20credentails%20wallet%20and%20skills.gif>)
 
-![](<../images/Get a sherable cerfication link.gif>)
+![](<../.gitbook/assets/Get%20a%20sherable%20cerfication%20link.gif>)
 
 In practice, the most immediately useful application is in employment and higher education contexts — a youth can point a prospective employer or university to their verified record of activities rather than relying on an unverifiable CV entry.
 

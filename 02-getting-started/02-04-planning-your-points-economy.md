@@ -16,7 +16,7 @@ The critical insight is that opportunity Zlto values and reward Zlto prices are 
 
 Design the two sides together:
 
-![Diagram showing the Zlto economy as a system: opportunity effort tiers on the left, reward price tiers on the right, connected by the Zlto earn-and-spend flow in the middle](../images/zlto-economy-system-z7e3.png)
+![Diagram showing the Zlto economy as a system: opportunity effort tiers on the left, reward price tiers on the right, connected by the Zlto earn-and-spend flow in the middle](../.gitbook/assets/zlto-economy-system-z7e3.png)
 
 **Step 1: Establish your opportunity effort tiers.** Classify your planned opportunities by effort: low (under 30 minutes), medium (1–3 hours), high (half-day or more), and sustained (multi-week programme). Assign a Zlto value range to each tier using the reference rate as your starting point. As a guide: low-effort opportunities typically start at around 50 Zlto; significant time contributions at 500 Zlto or more. See [Setting Zlto Values](../03-opportunities/03-05-setting-zloto-values.md) for the full framework.
 

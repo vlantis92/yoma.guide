@@ -6,7 +6,7 @@ Not all rewards work the same way. Yoma supports three distinct reward models, e
 
 ## The Three Reward Models
 
-![Diagram comparing the three reward models side by side: voucher code, non-contract, and cash equivalent](../images/reward-types-comparison-m2x8.png)
+![Diagram comparing the three reward models side by side: voucher code, non-contract, and cash equivalent](../.gitbook/assets/reward-types-comparison-m2x8.png)
 
 ### Model 1: Voucher Code Rewards
 

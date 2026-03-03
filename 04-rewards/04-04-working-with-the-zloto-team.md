@@ -14,7 +14,7 @@ The Zlto team is the operational engine behind Yoma's rewards marketplace. Under
 
 This means your implementing organisation does not have direct access to create, edit, or retire reward listings. Everything on the rewards side of the marketplace goes through the Zlto team.
 
-![Diagram showing the relationship and handoff workflow between the implementing organisation, Zlto team, and reward partners](../images/zlto-coordination-workflow-b5f1.png)
+![Diagram showing the relationship and handoff workflow between the implementing organisation, Zlto team, and reward partners](../.gitbook/assets/zlto-coordination-workflow-b5f1.png)
 
 ## Division of Responsibilities
 

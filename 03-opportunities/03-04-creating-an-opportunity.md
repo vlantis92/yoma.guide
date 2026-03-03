@@ -13,7 +13,7 @@ Creating an opportunity listing is the core task for every opportunity partner. 
 
 Organisation Admins create opportunities from within the partner portal on yoma.world. Once logged in, navigate to your organisation's dashboard and select "Create Opportunity." The form covers the following fields, grouped here by category.
 
-![](<../images/Add oportunity navigate to.gif>)
+![](<../.gitbook/assets/Add%20oportunity%20navigate%20to.gif>)
 
 ## Core Details
 
@@ -70,7 +70,7 @@ Before publishing, do a quick review pass:
 
 Once your opportunity is live, you can generate a shareable deep link to it and distribute it directly to youth via WhatsApp, social media, or notice boards — bypassing the need for them to search the marketplace.
 
-![](<../images/Create a sharable deep link to an opportunity.gif>)
+![](<../.gitbook/assets/Create%20a%20sharable%20deep%20link%20to%20an%20opportunity.gif>)
 
 For ongoing management of live listings, see [Managing Opportunities](03-08-managing-opportunities.md).
 

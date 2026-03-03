@@ -20,7 +20,7 @@ Partners register themselves on the platform. Your role is to guide them through
 5. **Yoma/RLabs reviews the application** — typically within 48 hours on business days.
 6. **On approval, Organisation Admin access is granted.** The partner receives a notification and can now log in with full admin access to their organisation on Yoma.
 
-![Step-by-step diagram of the partner registration and approval process from application to admin access granted](../images/partner-onboarding-steps-c2n5.png)
+![Step-by-step diagram of the partner registration and approval process from application to admin access granted](../.gitbook/assets/partner-onboarding-steps-c2n5.png)
 
 > ⚠️ **Important:** The 48-hour review window applies on business days in South Africa (where the Yoma/RLabs team is based). If you're onboarding partners ahead of a launch deadline, submit registrations with at least three business days of buffer. Approval can occasionally take longer if documentation is incomplete or unclear.
 

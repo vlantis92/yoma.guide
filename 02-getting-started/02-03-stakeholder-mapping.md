@@ -8,7 +8,7 @@ A Yoma deployment succeeds or fails on the quality of its ecosystem — the part
 
 Map stakeholders into three categories, corresponding to their role in the three-sided marketplace:
 
-![Diagram showing the three stakeholder categories — opportunity partners, reward partners, and government/strategic stakeholders — with example types in each](../images/stakeholder-map-s6k4.png)
+![Diagram showing the three stakeholder categories — opportunity partners, reward partners, and government/strategic stakeholders — with example types in each](../.gitbook/assets/stakeholder-map-s6k4.png)
 
 **Opportunity partners** supply the activities that youth complete and earn Zlto for. They sit on the supply side of the marketplace.
 

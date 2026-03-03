@@ -35,7 +35,7 @@ The core workflow has four steps:
 3. **The admin approves or rejects** the submission. If rejected, the youth is notified with a reason and can resubmit.
 4. **On approval**, Zlto tokens are awarded to the youth's balance and a Verifiable Credential is issued to their YoID — both happen automatically.
 
-![Flowchart showing the four-step verification process from youth submission to credential issuance](../images/verification-workflow-a3f7.png)
+![Flowchart showing the four-step verification process from youth submission to credential issuance](../.gitbook/assets/verification-workflow-a3f7.png)
 
 > 💡 **Tip:** Aim to verify submissions within 48 hours. In existing deployments, youth engagement drops significantly when verification takes longer than a week.
 
@@ -184,7 +184,7 @@ Draw from these existing deployments: South Africa (100+ reward companies, tax-d
 Where a diagram, flowchart, decision tree, screenshot mockup, or other visual would aid understanding, insert a placeholder using this exact format:
 
 ```markdown
-![Description of what this image shows](../images/descriptive-name-XXXX.png)
+![Description of what this image shows](../.gitbook/assets/descriptive-name-XXXX.png)
 ```
 
 Where `XXXX` is a random 4-character alphanumeric ID (e.g., `a3f7`, `9kp2`).

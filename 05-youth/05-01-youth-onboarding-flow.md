@@ -8,7 +8,7 @@ The first thing a young person does on Yoma is create an account. That process â
 
 Youth create an account at yoma.world. The sign-up entry point is the "Log in" button on the homepage â€” from there, first-time users select "I don't have an account."
 
-![Diagram of the youth sign-up flow from yoma.world through to a live YoID](../images/youth-signup-flow-o1u9.png)
+![Diagram of the youth sign-up flow from yoma.world through to a live YoID](../.gitbook/assets/youth-signup-flow-o1u9.png)
 
 Five account creation methods are available:
 
@@ -41,11 +41,11 @@ All data is self-reported. There is no mechanism to verify age against an extern
 
 On completing the profile, a YoID (Yoma Digital Identity) is created automatically. The youth lands in the opportunity marketplace and can immediately browse and apply for available opportunities.
 
-![](<../images/Oportunity Marketplac find and filter.gif>)
+![](<../.gitbook/assets/Oportunity%20Marketplac%20find%20and%20filter.gif>)
 
 The YoID is the youth's permanent, portable digital record on the platform. As they complete opportunities, their credential history builds up in their YoID wallet.
 
-![](<../images/YoID credentails wallet and skills.gif>)
+![](<../.gitbook/assets/YoID%20credentails%20wallet%20and%20skills.gif>)
 
  It accumulates Verifiable Credentials as they complete opportunities, and they can share it externally with employers, universities, or other institutions. For more on how credentials work, see [Credentials and Skills](../03-opportunities/03-07-credentials-and-skills.md).
 

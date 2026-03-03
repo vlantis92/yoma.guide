@@ -14,7 +14,7 @@ That combination — immediate token reward plus a lasting credential — is wha
 
 Every opportunity on Yoma is categorised as one of three types. The type describes the nature of the activity, maps to the Grow / Impact / Thrive framework, and is recorded in the Verifiable Credential issued on completion — but all three currently use the same credential schema. See [Credentials and Skills](03-07-credentials-and-skills.md) for more on how credentials work.
 
-![Diagram showing the three opportunity types, the Yoma framework they map to, and examples of each](../images/opportunity-types-diagram-j6t4.png)
+![Diagram showing the three opportunity types, the Yoma framework they map to, and examples of each](../.gitbook/assets/opportunity-types-diagram-j6t4.png)
 
 **Learning** opportunities cover skills-building, courses, and educational milestones — the **Grow** dimension. Examples: completing a digital literacy module, finishing an online certificate programme, attending a vocational training session.
 

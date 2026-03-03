@@ -33,7 +33,7 @@ Not every category will be relevant or available in every market. Use this as a 
 
 Before approaching individual organisations, map your landscape using the stakeholder framework in [Stakeholder Mapping](../02-getting-started/02-03-stakeholder-mapping.md). Prioritise partners whose offering has broad appeal across your target youth demographic's age and income profile.
 
-![Diagram showing the reward partner recruitment pipeline from prospect identification to Zlto team handoff](../images/partner-recruitment-pipeline-k9p3.png)
+![Diagram showing the reward partner recruitment pipeline from prospect identification to Zlto team handoff](../.gitbook/assets/partner-recruitment-pipeline-k9p3.png)
 
 ## The Value Proposition
 
