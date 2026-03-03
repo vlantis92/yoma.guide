@@ -50,9 +50,9 @@ A youth's YoID is their portable record of everything they've achieved on Yoma. 
 - **Direct sharing** — youth can share a link to their YoID record with specific individuals or organisations
 - **Credential verification** — third parties with the link can verify the authenticity of any credential on the record, confirmed against the blockchain
 
-![[YoID credentails wallet and skills.gif]]
+![](<../images/YoID credentails wallet and skills.gif>)
 
-![[Get a sherable cerfication link.gif]]
+![](<../images/Get a sherable cerfication link.gif>)
 
 In practice, the most immediately useful application is in employment and higher education contexts — a youth can point a prospective employer or university to their verified record of activities rather than relying on an unverifiable CV entry.
 

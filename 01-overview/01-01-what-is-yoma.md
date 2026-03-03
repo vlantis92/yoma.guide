@@ -52,19 +52,19 @@ Alongside the credential, the young person receives Zlto tokens — a digital to
 
 The opportunity marketplace is what a young person sees when they log in. It lists all available activities posted by partner organisations — courses, volunteer tasks, community gigs, and employment pathways. Youth can browse by category, filter by location or type, and click through to any opportunity to see what is required, what it is worth in Zlto, and what credential they will earn. This is the discovery and participation layer: the front door of the platform.
 
-![[Oportunity Marketplac find and filter.gif]]
+![](<../images/Oportunity Marketplac find and filter.gif>)
 
 ### Youth-Facing: The Rewards Marketplace
 
 Once a young person has earned Zlto, they spend it here. The rewards marketplace lists everything available for redemption — mobile data bundles, airtime, vouchers, physical goods — contributed by reward partners. Youth browse, select, and redeem directly through the platform. The rewards marketplace is what gives Zlto its practical value, and it is what makes completing opportunities worth the effort. Without active reward partners populating this side, the incentive loop breaks.
 
-![[Rewards Marketplace.gif]]
+![](<../images/Rewards Marketplace.gif>)
 
 ### Digital Identity: YoID
 
 Every young person on Yoma has a YoID — a self-sovereign digital identity profile that accumulates their credentials over time. Each time an opportunity is approved, the credential is added to their YoID automatically. YoID functions as a portable, verifiable record of what a young person has actually done: a digital alternative to a CV built through participation rather than self-reporting. Youth own their data and control who can access it. No institution holds it on their behalf.
 
-![[YoID credentails wallet and skills.gif]]
+![](<../images/YoID credentails wallet and skills.gif>)
 
 - **Blockchain — credentials:** The credentials stored in YoID are verified and secured using blockchain technology. This makes them tamper-proof: a credential cannot be faked, backdated, or removed by a third party. Employers and institutions can verify a credential's authenticity without needing to contact the issuing organisation directly.
 

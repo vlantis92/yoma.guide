@@ -29,7 +29,7 @@ From a youth's perspective, the rewards marketplace is simple:
 
 Youth can also **save up Zlto** across multiple opportunities to reach the threshold for higher-value rewards — university scholarship access, for example, is typically listed at a high Zlto amount that requires sustained engagement over time.
 
-![[Rewards Marketplace.gif]]
+![](<../images/Rewards Marketplace.gif>)
 ## Stock Counts and Availability
 
 Where rewards are limited in quantity — a batch of airtime vouchers, for instance, or a fixed number of event places — the marketplace displays a **stock count**. Youth can see how many remain. Once a reward is fully redeemed, it disappears from the catalogue until stock is refreshed.
