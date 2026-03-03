@@ -10,7 +10,7 @@ The distinction matters. When you launch Yoma in your market, you are not config
 
 This is both a strength and a constraint. The strength: you are not starting from zero on the technology. The platform is production-ready, proven across multiple countries, and free for all users and partners. The constraint: you cannot change platform features to suit local context — what the platform does is what it does. Customisation requests go to the Yoma development team at RLabs; the roadmap and development capacity are shared globally.
 
-The practical implication is that the work of a deployment is almost entirely operational. The technical barrier is low; the ecosystem-building barrier is where the real effort sits. This guide exists because that operational work — partner recruitment, reward configuration, youth acquisition, verification management, reporting — need to be follower to ensure the the technology is adopted to the point that it functions. 
+The practical implication is that the work of a deployment is almost entirely operational. The technical barrier is low; the ecosystem-building barrier is where the real effort sits. This guide exists because that operational work — partner recruitment, reward configuration, youth acquisition, verification management, reporting — needs to be built out in order for the technology to function. 
 
 ## What Yoma Provides
 

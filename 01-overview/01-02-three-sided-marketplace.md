@@ -22,7 +22,7 @@ All reward configuration goes through the Zlto team (zlto.co), a separate organi
 
 Young people are the users who make the marketplace work. They sign up, complete opportunities, earn Zlto, and spend it on rewards — with every achievement building their YoID. Youth acquisition is an off-platform activity: Yoma has no built-in mechanism to attract users. The implementing organisation is responsible for bringing youth to the platform through marketing, community outreach, school partnerships, ambassador programmes, and events. See [Youth Acquisition Strategy](../05-youth/05-02-youth-acquisition-strategy.md).
 
-![[three-sided-marketplace-t8r2.png]]
+![Diagram showing the three sides of the Yoma marketplace and how they interconnect](../.gitbook/assets/three-sided-marketplace-t8r2.png)
 ## How the Three Sides Connect
 
 The core exchange is straightforward: youth complete opportunities → partners verify and issue Zlto + credentials → youth spend Zlto on rewards → the experience of redeeming a reward and earning a credential motivates further opportunity-seeking.
