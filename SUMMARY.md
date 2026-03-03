@@ -1,7 +1,5 @@
 # Summary
 
-* [Yoma Deployment Guide](00-index.md)
-
 ## Overview
 
 * [What Is Yoma](01-overview/01-01-what-is-yoma.md)
