@@ -1,0 +1,1 @@
+Clean, flat vector-style diagrams, as a square card with a clear boarder, using high contrast, and youth focused modern appropriate graphics. Use the Colours & Style: Soft pastels ( `#387f6a` `#f0a02d` `#41204b` `#fc4d56` `#51afe9` `#020304` `#ffffff` with solid form, rounded corners, and gentle shadows for a modern, approachable look.

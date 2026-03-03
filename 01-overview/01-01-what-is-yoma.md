@@ -2,53 +2,83 @@
 
 *Last updated: February 2026*
 
-Yoma — the Youth Agency Marketplace — is a digital platform that connects young people with opportunities to learn, volunteer, and work; rewards them with real-world value for completing those opportunities; and builds them a verified digital record of everything they achieve along the way. It was built by RLabs, a South African social enterprise, in partnership with UNICEF and Generation Unlimited (GenU), and is accessible for free to youth and partners alike at yoma.world.
+Yoma is a technology platfrom that supports positive youth engagement- where youth can build skills, create impact, and earn - all while building up a portfolio of experiences. 
 
-## The Problem Yoma Addresses
+To do this, Yoma links a three-sided digital marketplace connecting young people, opportunity providers, and reward partners in a single ecosystem.
 
-Young people in emerging markets often face a compound barrier: they have potential, energy, and time, but lack recognised credentials, access to meaningful opportunities, and any reliable way to signal their skills to employers or institutions. At the same time, organisations running youth programmes struggle to verify impact, issue portable credentials, and incentivise sustained participation.
+1) On one side, organisations post activities that help youth build skills or contribute to their communities. 
+2) On the other, businesses / partners offer rewards in exchange for youth completing these opportunities. 
+3) Youth sit at the centre — participating, earning, and building a record of real experience.
 
-Yoma sits at the intersection of these problems. It provides a verified, youth-owned digital identity that accumulates proof of real-world experience — and a token economy that makes participation directly rewarding in the near term, not just in the abstract future.
+This directly addresses a challenge every young person faces: you can't get work without experience, and you can't get experience without work. 
 
-## The Founding Partners
+Yoma solves this by bringing together partners, incentivising youth, and verifying what youth actually do and recording each completion as a credential. Over time, these credentials form a portable portfolio of skills and experiences — owned entirely by the young person. 
 
-Yoma was co-created by three organisations:
+Yoma is open source, funded by development agencies and foundations, and free for both youth and partners. It runs as a single global instance at yoma.world, accessible on any internet-enabled device.
 
-**RLabs** (rlabs.org) is the South African NGO that built and continues to maintain the platform. They are the technical custodians of yoma.world and provide the System Administrator function.
+## The Three Sides of the Marketplace
 
-**UNICEF** is a strategic partner and co-creator, providing global reach, policy alignment, and SDG-linked programme frameworks.
+Yoma coordinates three groups through a single platform:
 
-**Generation Unlimited (GenU)** is a global public-private-youth partnership hosted by UNICEF that focuses on expanding education, training, and employment opportunities for young people aged 10–24.
+| Side | Who | What they bring |
+|---|---|---|
+| Opportunity Side | NGOs, schools, government programmes, employers | Activities, courses, volunteer tasks, gigs |
+| Youth Side | Young people aged 13–35 | Time, effort, participation |
+| Reward Side | Businesses, telecoms, retailers | Vouchers, airtime, data, goods, discounts |
 
-## The Grow / Impact / Thrive Framework
+None of these three sides works without the other two. Yoma coordinates all three through a single platform. For a detailed look at how the three sides interact and depend on each other, see [The Three-Sided Marketplace](01-02-three-sided-marketplace.md).
 
-Yoma's design is anchored in three outcomes that good youth engagement should produce:
+## The Four Things That Actually Happen on Yoma
 
-![Diagram of the Grow, Impact, and Thrive framework showing what each dimension delivers for youth](../images/grow-impact-thrive-g3f7.png)
+### 1. Engage
 
-**Grow** — Youth build real-world skills and experiences that are verified and recognised. Learning opportunities, training programmes, and educational modules sit in this dimension.
+A young person opens Yoma and sees a list of available opportunities — volunteer activities, online courses, community tasks, or impact gigs — posted by partner organisations. They browse, find something relevant, and click to participate. Organisations can generate a shareable deep link for any opportunity and push it through WhatsApp, social media, or notice boards, bringing youth directly to that listing without any hunting around.
 
-**Impact** — Youth generate measurable social and environmental outcomes that contribute to SDG targets. Volunteering, community service, and civic action opportunities sit here.
+### 2. Complete
 
-**Thrive** — Youth supplement their livelihoods through earned incentives and rewards. Employment, data collection tasks, and livelihood opportunities sit in this dimension.
+The young person does the activity and the partner organisation verifies it. There are three ways this can happen: the partner shares a unique link that the young person clicks to confirm attendance or completion; the young person scans a QR code on-site at the time of the activity; or the young person uploads evidence — a photo, certificate, or similar — which the partner reviews and approves or rejects through their dashboard. Approval is what triggers everything downstream.
 
-These three dimensions are a framework for categorising the type of value a given opportunity provides — to the youth and to the ecosystem — not a set of separate product tiers. Most deployments span all three.
+### 3. Credential
 
-## Platform Fundamentals
+Once verified, Yoma issues the young person a digital credential — a blockchain-verified certificate recorded on their YoID (Yoma Identity). This is not a PDF; it is a tamper-proof digital record tied to the young person's account, proving they completed something real. Over time, YoID becomes a portable record of skills acquired, volunteering completed, and courses passed — owned and controlled by the young person, shareable with employers or institutions.
 
-Yoma is web-based and accessible on any internet-enabled device at yoma.world. There is no native mobile app and no offline mode. The platform is available in English, French, Kiswahili, Portuguese, and Arabic.
+### 4. Reward
 
-As of February 2026, Yoma has more than 311,000 registered youth, 4.9 million engagements, and 70+ opportunity partners operating across six countries.
+Alongside the credential, the young person receives Zlto tokens — a digital token recorded on a tamper-proof blockchain ledger. Zlto is redeemable on the Yoma marketplace for actual goods and services: mobile data, airtime, vouchers, or physical products from reward partners. The token value attached to each opportunity is set by whoever configures it. Youth accumulate Zlto across multiple activities and redeem when they choose.
 
-The three core mechanics that make the platform work are:
+## The Tech Components That Make It Work
 
-**Opportunities** — activities that youth can discover, apply for, and complete. Partners list opportunities; youth complete them and submit proof.
+### Youth-Facing: The Opportunity Marketplace
 
-**Zlto** — a blockchain-based digital token that youth earn on verified completion of opportunities and spend on rewards. Not a cryptocurrency — Zlto has a fixed reference value and operates as a closed incentive economy within the platform.
+The opportunity marketplace is what a young person sees when they log in. It lists all available activities posted by partner organisations — courses, volunteer tasks, community gigs, and employment pathways. Youth can browse by category, filter by location or type, and click through to any opportunity to see what is required, what it is worth in Zlto, and what credential they will earn. This is the discovery and participation layer: the front door of the platform.
 
-**YoID** — a youth-owned digital identity, created automatically at registration, that accumulates Verifiable Credentials for every completed opportunity. Credentials are blockchain-recorded and portable — youth can share them with employers, universities, or institutions outside the platform.
+### Youth-Facing: The Rewards Marketplace
 
-For definitions of these terms, see [Key Concepts](01-03-key-concepts.md). For how the three sides of the marketplace connect, see [The Three-Sided Marketplace](01-02-three-sided-marketplace.md).
+Once a young person has earned Zlto, they spend it here. The rewards marketplace lists everything available for redemption — mobile data bundles, airtime, vouchers, physical goods — contributed by reward partners. Youth browse, select, and redeem directly through the platform. The rewards marketplace is what gives Zlto its practical value, and it is what makes completing opportunities worth the effort. Without active reward partners populating this side, the incentive loop breaks.
+
+### Digital Identity: YoID
+
+Every young person on Yoma has a YoID — a self-sovereign digital identity profile that accumulates their credentials over time. Each time an opportunity is approved, the credential is added to their YoID automatically. YoID functions as a portable, verifiable record of what a young person has actually done: a digital alternative to a CV built through participation rather than self-reporting. Youth own their data and control who can access it. No institution holds it on their behalf.
+
+- **Blockchain — credentials:** The credentials stored in YoID are verified and secured using blockchain technology. This makes them tamper-proof: a credential cannot be faked, backdated, or removed by a third party. Employers and institutions can verify a credential's authenticity without needing to contact the issuing organisation directly.
+
+- **Blockchain — Zlto:** Zlto token transactions are recorded on a blockchain ledger, making every issuance and redemption transparent and tamper-proof. This ensures youth cannot be issued tokens that do not exist, and that redemptions are accurately tracked. The ledger is the trust layer that makes Zlto work as a real currency within the ecosystem.
+
+### Partner-Facing: The Opportunity Uploader and Manager
+
+Partner organisations create and manage their opportunities through the Yoma admin interface at yoma.world/admin. When creating an opportunity, a partner defines the activity description, completion criteria, the number of available places, the Zlto value on offer, and the skills that completing it will add to a young person's YoID. Once live, the opportunity appears in the youth marketplace. Incoming completion submissions appear in a review queue, where the partner approves or rejects each one. Approved submissions trigger the credential and Zlto issuance automatically — no manual processing required.
+
+### Partner-Facing: The Partner Dashboard
+
+Beyond individual opportunity management, partners have access to a dashboard that gives them a view across all their activity on the platform: how many youth have engaged with each opportunity, completion and approval rates, total Zlto issued, and credentials granted. This provides the reporting layer that organisations need to demonstrate programme outcomes — to funders, government, or internal stakeholders — without having to build separate data collection processes.
+
+## The Practical Dependency Chain
+
+For Yoma to function as intended, all three sides must be active simultaneously:
+
+> Opportunities must exist → Youth must register and complete them → Credentials must mean something → Rewards must be worth earning → Which brings more youth → Which attracts more partners → Which creates more opportunities.
+
+The role of a deployment is to seed all three sides at once: recruiting organisations to post opportunities, securing local businesses to offer rewards, and activating youth to register and participate. The platform is ready — it is the ecosystem that has to be built.
 
 ## Related
 

@@ -20,7 +20,7 @@ Map each category separately, then identify which contacts you already have and 
 
 ## Opportunity Partner Categories
 
-Yoma's platform is built for ten types of opportunity partners. Use this as your mapping prompt — not every category will be active in every market, but reviewing all ten ensures you don't miss viable partners:
+Here we've categorised some of Yoma's existing opportunity partner types. Use this as your mapping prompt — not every category will be active in every market, but reviewing all ten ensures you don't miss viable partners:
 
 | Type | What they contribute | Examples |
 | --- | --- | --- |
