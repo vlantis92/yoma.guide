@@ -46,6 +46,8 @@ Once verified, Yoma issues the young person a digital credential — a blockchai
 
 Alongside the credential, the young person receives Zlto tokens — a digital token recorded on a tamper-proof blockchain ledger. Zlto is redeemable on the Yoma marketplace for actual goods and services: mobile data, airtime, vouchers, or physical products from reward partners. The token value attached to each opportunity is set by whoever configures it. Youth accumulate Zlto across multiple activities and redeem when they choose.
 
+> 💡 **Youth choose their own path.** There is no fixed link between any specific opportunity and any specific reward. A young person earns Zlto by completing whichever opportunities interest them — and spends that Zlto on whichever rewards they find valuable. The two sides of the economy are intentionally separate: youth have full agency to decide what to do and what to redeem. This is by design. The incentive is Zlto itself, not a prescribed opportunity-to-reward pipeline.
+
 ## The Tech Components That Make It Work
 
 ### Youth-Facing: The Opportunity Marketplace
