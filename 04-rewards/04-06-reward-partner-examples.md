@@ -22,6 +22,8 @@ Cash vouchers of multiple denominations were purchased from SureGifts and loaded
 
 This approach is replicable anywhere a comparable voucher aggregator exists. The key advantages: one partner relationship gives you many reward options, the brand is already trusted by your youth demographic, and the voucher code model means fulfilment is fully automated. If a voucher marketplace exists in your market, it is likely your fastest path to a compelling rewards catalogue at launch.
 
+>⚠️ **Note:** A significant downside of this approach is that the entire marketplace needs to be funded by grants and donations to be able to purchase gift vouchers on behalf of youth. This places enormous pressure on fundraising efforts and has a limited ability to scale. This is essentially a false marketplace on the demand side- but works well for a limited size funded pilot. 
+
 ## Non-Contract Model: Philippines — Workshop RSVPs
 
 In the Philippines, Yoma partnered with training providers to offer free weekend workshops as rewards. Youth spent Zlto to RSVP and secure their place — no voucher codes, no automated code delivery. Redemption simply confirmed the youth's intent to attend.
