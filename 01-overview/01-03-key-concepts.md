@@ -14,7 +14,7 @@ YoID is distinct from the youth's Yoma account. The account is the login; the Yo
 
 ### Zlto
 
-**Zlto** is the digital token that youth earn by completing verified opportunities and spend on rewards. It is a closed incentive currency — not a cryptocurrency. Zlto has a fixed reference value: roughly **100 Zlto ≈ 5 USD**. This exchange rate is used as a calibration guide for pricing opportunities and rewards; it is not an exchange rate for converting to fiat currency.
+**Zlto** is the digital token that youth earn by completing verified opportunities and spend on rewards. It is a closed incentive currency — not a cryptocurrency. Zlto has a fixed reference value: **1 USD = 45 Zlto**. This is used as a calibration guide for pricing opportunities and rewards; it is not an exchange rate for converting to fiat currency.
 
 Zlto is administered by the Zlto team (zlto.co), a separate organisation from Yoma/RLabs. The Zlto team manages the rewards backend and all reward listings. See [How Rewards Work](../04-rewards/04-01-how-rewards-work.md) for the full mechanics.
 

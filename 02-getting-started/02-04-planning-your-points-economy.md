@@ -6,9 +6,9 @@ The Zlto economy is the engine that drives youth behaviour in your deployment. G
 
 ## The Reference Value
 
-Zlto has a fixed global reference value: **100 Zlto ≈ 5 USD**. This is your calibration anchor. It's not an exchange rate — Zlto can't be converted to cash in most deployments — but it gives you a principled basis for pricing both sides of the economy against real-world value.
+Zlto has a fixed global reference value: **1 USD = 45 Zlto**. This is your calibration anchor. It's not an exchange rate — Zlto can't be converted to cash in most deployments — but it gives you a principled basis for pricing both sides of the economy against real-world value.
 
-Before setting any numbers, convert your local currency to USD using the reference rate: 100 Zlto = 5 USD, or **20 Zlto per USD**. All your Zlto values — for both opportunities and rewards — should be derived from this anchor, then adjusted for local context.
+Before setting any numbers, convert your local currency to USD using the reference rate: **45 Zlto per USD**. All your Zlto values — for both opportunities and rewards — should be derived from this anchor, then adjusted for local context.
 
 ## Designing the Economy as a System
 
@@ -18,7 +18,7 @@ Design the two sides together:
 
 ![Diagram showing the Zlto economy as a system: opportunity effort tiers on the left, reward price tiers on the right, connected by the Zlto earn-and-spend flow in the middle](../.gitbook/assets/zlto-economy-system-z7e3.png)
 
-**Step 1: Establish your opportunity effort tiers.** Classify your planned opportunities by effort: low (under 30 minutes), medium (1–3 hours), high (half-day or more), and sustained (multi-week programme). Assign a Zlto value range to each tier using the reference rate as your starting point. As a guide: low-effort opportunities typically start at around 50 Zlto; significant time contributions at 500 Zlto or more. See [Setting Zlto Values](../03-opportunities/03-05-setting-zloto-values.md) for the full framework.
+**Step 1: Establish your opportunity effort tiers.** Classify your planned opportunities by effort: low (under 30 minutes), medium (1–3 hours), high (half-day or more), and sustained (multi-week programme). Assign a Zlto value range to each tier using the reference rate as your starting point. As a guide: low-effort opportunities typically start at around 50 Zlto; significant time contributions at 400 Zlto or more. See [Setting Zlto Values](../03-opportunities/03-05-setting-zloto-values.md) for the full framework.
 
 **Step 2: Establish your reward price tiers.** Classify your planned rewards by Zlto price: accessible (reachable after 2–3 completions), mid-range (reachable after a week or two of consistent engagement), and aspirational (requiring sustained engagement over months). Price each reward using the reference rate and adjust for appeal. See [Pricing Rewards in Zlto](../04-rewards/04-05-pricing-rewards-in-zloto.md) for the detailed calculation.
 

@@ -34,7 +34,7 @@ There are three approaches to verification, and you can use any combination with
 
 For most deployments, use **manual review as the default**. Use open verification links for in-person events where you control distribution, and email-targeted links where you have a confirmed attendee list and want to prevent link-sharing.
 
-> ⚠️ **Important:** Verification links can be forwarded. If a youth shares a link with someone who didn't attend, that person can claim the credential. Only use this method when you have reasonable confidence in the distribution channel — for example, a QR code displayed on a screen at a live event that can only be scanned in person.
+> ⚠️ **Important:** Verification links that are not "email targeted" can be forwarded. If a youth shares a link with someone who didn't attend, that person can claim the credential. Only use this method when you have reasonable confidence in the distribution channel — for example, a QR code displayed on a screen at a live event that can only be scanned in person. Expire the link after the workshop to ensure no false claims. 
 
 ### Creating a Verification Link
 
@@ -71,7 +71,7 @@ The verification workflow is the platform's primary fraud prevention mechanism. 
 
 **Specify evidence clearly in the opportunity description.** Vague instructions lead to vague submissions, which are harder to verify and easier to game. Tell youth exactly what to upload: "a geotagged photograph of the water quality reading equipment at the site" is harder to fake than "a photo showing you completed the activity."
 
-**Use QR codes only in controlled environments.** At in-person events, generate a single-use or time-limited QR code displayed on screen rather than distributed digitally. This limits the forwarding risk significantly.
+**Use QR codes only in controlled environments.** At in-person events, generate a single-use or time-limited QR code displayed on screen rather than distributed digitally. This limits the forwarding risk significantly. **Expire the link after its use to ensure it can't be shared on.** 
 
 **Reject incomplete or unconvincing submissions with a clear reason.** The rejection message is sent to the youth, giving them the chance to resubmit correctly. Approving uncertain submissions to avoid conflict undermines the credibility of every credential the partner issues.
 

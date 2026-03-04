@@ -135,9 +135,10 @@ Organisation Admin creates a listing with the following:
 
 ### Zlto value guidelines
 
-- Zlto has a fixed value. Rough guideline: **100 Zlto ≈ 5 USD**
+- Zlto has a fixed value. Rough guideline: **1 USD = 45 Zlto**
+- Time guideline: 1 hour ≈ 50 Zlto, 8 hours ≈ 400 Zlto, 5 days ≈ 2,000 Zlto
 - Low effort opportunity: ~50 Zlto
-- Significant time contribution: ~500 Zlto
+- Significant time contribution: ~400 Zlto
 - The more complex an opportunity, the more Zlto can be offered
 - Values can be edited after creation
 

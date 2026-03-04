@@ -6,7 +6,7 @@ Zlto values are the mechanism by which youth recognise whether their effort is b
 
 ## The Reference Point
 
-Zlto has a fixed global reference value: **100 Zlto ≈ 5 USD**. This gives you an anchor — an opportunity worth roughly an hour of a young person's time, in a market where youth time is valued at minimum wage, might be worth around 50–100 Zlto. An opportunity requiring significant multi-day commitment might justify 400–500 Zlto.
+Zlto has a fixed global reference value: **1 USD = 45 Zlto**. This gives you an anchor — an opportunity worth roughly an hour of a young person's time is worth around 50 Zlto. A full working day (8 hours) is worth around 400 Zlto. A sustained five-day commitment justifies around 2,000 Zlto.
 
 These are starting points, not rules. The goal is that the Zlto value reflects the genuine effort required, and that the resulting accumulation of Zlto over time creates a meaningful path to the rewards in the marketplace.
 
@@ -18,11 +18,11 @@ Use this table as your working reference:
 
 | Effort level | Zlto range | Examples |
 |---|---|---|
-| Very low effort (< 30 min) | 20–50 Zlto | Completing a short quiz, watching a video and submitting a reflection, signing up for an event |
-| Low effort (30–60 min) | 50–100 Zlto | A single online module, a short community task, a brief survey-based data collection |
-| Moderate effort (1–3 hours) | 100–250 Zlto | Attending a workshop, completing a multi-part course module, a half-day community activity |
-| Significant effort (3–8 hours) | 250–400 Zlto | A full-day event, multi-session training programme, a structured data collection assignment |
-| High commitment (ongoing / multi-day) | 400–500+ Zlto | Extended volunteering placements, multi-week programmes, complex fieldwork assignments |
+| Very low effort (< 30 min) | 10–25 Zlto | Completing a short quiz, watching a video and submitting a reflection, signing up for an event |
+| Low effort (30–60 min) | 25–50 Zlto | A single online module, a short community task, a brief survey-based data collection |
+| Moderate effort (1–3 hours) | 50–150 Zlto | Attending a workshop, completing a multi-part course module, a half-day community activity |
+| Significant effort (3–8 hours) | 150–400 Zlto | A full-day event, multi-session training programme, a structured data collection assignment |
+| High commitment (ongoing / multi-day) | 400–2,000+ Zlto | Extended volunteering placements, multi-week programmes, complex fieldwork assignments |
 
 > ℹ️ **Note:** These ranges are guides, not hard limits. A particularly impactful opportunity — for instance, one that generates high-quality data for a national programme — might justify a higher Zlto value regardless of raw time investment, because the value of the youth's contribution extends beyond the hours they put in.
 
@@ -58,7 +58,7 @@ When reviewing a partner's draft listings before they go live, check the Zlto va
 
 ### Example: Barbados — Calibrating the Points Economy at Launch
 
-For the Barbados pilot, the target reward is a BBD 10 airtime voucher — priced at 200 Zlto. Working backwards: youth need to complete approximately four moderate-effort opportunities (each paying around 50 Zlto) to reach their first redemption. That feels achievable within a week of active participation. More aspirational rewards — monthly data bundles, local retail vouchers — sit at 400–600 Zlto, requiring sustained engagement over 2–4 weeks. The aspiration of a university scholarship access listing at a high threshold provides a long-term retention anchor for the most motivated youth.
+For the Barbados pilot, the target reward is a BBD 10 airtime voucher — priced at 225 Zlto (USD 5 × 45). Working backwards: youth need to complete approximately four to five moderate-effort opportunities (each paying around 50 Zlto) to reach their first redemption. That feels achievable within a week of active participation. More aspirational rewards — monthly data bundles, local retail vouchers — sit at 450–900 Zlto, requiring sustained engagement over 2–4 weeks. The aspiration of a university scholarship access listing at 2,000 Zlto provides a long-term retention anchor for the most motivated youth.
 
 ## Related
 

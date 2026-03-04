@@ -100,7 +100,7 @@ Youth Agency Marketplace. The digital platform at yoma.world that connects young
 Yoma Digital Identity. A self-sovereign digital identity profile created automatically when a young person registers on Yoma. YoID accumulates Verifiable Credentials for every approved opportunity completion, forming a portable, youth-owned record of verified skills and experience that can be shared with employers, universities, or institutions.
 
 **Zlto**
-A blockchain-based digital token that youth earn by completing opportunities on Yoma and spend in the rewards marketplace. Not a cryptocurrency — Zlto operates as a closed incentive economy with a fixed reference value of approximately 100 Zlto = 5 USD (20 Zlto per USD). Always written as "Zlto," not "Zloto."
+A blockchain-based digital token that youth earn by completing opportunities on Yoma and spend in the rewards marketplace. Not a cryptocurrency — Zlto operates as a closed incentive economy with a fixed reference value of 1 USD = 45 Zlto. Always written as "Zlto," not "Zloto."
 
 **Zlto pending state**
 The brief period immediately after a completion is approved during which Zlto appears as "pending" in a youth's balance rather than available to spend. This reflects automated system processing and validation checks — it is not an error and does not require manual intervention. Pending Zlto typically becomes available within 24 hours.

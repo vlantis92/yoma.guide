@@ -10,6 +10,30 @@ This distinction is important to internalise early. A technically complete platf
 
 The good news: the platform converts well once youth arrive. The onboarding flow is frictionless (under five minutes), and a strong rewards catalogue gives youth a reason to complete their first registration. The challenge is getting them to yoma.world in the first place. See [Youth Onboarding Flow](05-01-youth-onboarding-flow.md) for the mechanics of what happens once they arrive.
 
+## Driving Youth to Your Opportunity
+
+Publishing the listing is only half the job. Once it is live, you need to decide how to bring youth to it — and there are two distinct pathways, each suited to different situations.
+
+### Pathway 1: Deep link to the opportunity
+
+Generate a shareable link that takes youth directly to your opportunity listing. They land on the page, read what the opportunity involves, see what they will earn in Zlto, and decide whether to participate. From there they might click through to an external learning platform, register for an event, or start the activity.
+
+![](<../.gitbook/assets/Create%20a%20sharable%20deep%20link%20to%20an%20opportunity.gif>)
+
+Use this pathway when youth need the full opportunity information before they can commit — when there is more context than fits in a WhatsApp message, or when the activity requires them to understand what is involved before signing up.
+
+### Pathway 2: Verification link direct to claiming
+
+In this pathway, youth have already completed the activity before they come to Yoma at all. They attended a workshop, participated in a community event, or finished a course — and learned about it through a WhatsApp group, an in-person briefing, or the partner organisation itself. You then send them a verification link to claim their credential and Zlto reward.
+
+If a youth does not yet have a Yoma account, they create one when they follow the link — motivated by the immediate prospect of their reward. If they already have an account, they go straight to claiming. Either way, the call to action is simpler and more direct: "You did the work — here is your reward."
+
+Use this pathway when the reward is the most compelling hook, or when the activity already happened outside the platform and youth do not need any further information from Yoma. Driving someone straight to a claim is often more effective than driving them to a discovery page.
+
+### Combining both in the same opportunity
+
+The two pathways are not mutually exclusive. A partner running a workshop might use a deep link in advance to drive registrations — giving undecided youth the full information to commit — and then issue a verification link to all attendees at the end of the session so they can claim on the spot. The pre-event communication uses one pathway; the post-event follow-up uses the other.
+
 ## Acquisition Channels
 
 ### Social Media

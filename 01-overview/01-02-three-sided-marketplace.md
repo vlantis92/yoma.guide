@@ -41,6 +41,28 @@ The practical solution is to sequence the build-out intelligently, not to wait u
 
 **Match supply and demand carefully.** Don't acquire 500 youth before you have opportunities for them to complete. Conversely, don't recruit 20 opportunity partners before you have any youth to engage with their listings. The sides need to grow in rough proportion to each other.
 
+## When to Bring Youth to Yoma
+
+Once an opportunity is live, there are two distinct ways to drive youth to engage with it — and choosing the right one changes both what you communicate and what a young person experiences when they arrive on the platform.
+
+**Pathway 1: Discovery first — deep link to the opportunity**
+
+Send youth a link that takes them directly to a specific opportunity listing. They land on the opportunity page, read what it involves, see what they will earn, and decide to participate. From there they might click through to an external learning platform, register for an event, or begin an activity.
+
+This pathway works best when youth need the full opportunity information before they can commit — when the activity requires context, preparation, or a decision that a short WhatsApp message cannot convey. Bring youth to the listing when the listing does the persuading.
+
+**Pathway 2: Completion first — verification link**
+
+In this pathway, youth have already done the activity before they come to Yoma. They attended a workshop, completed a course offline, or participated in a community event. The information about what they were doing was communicated through other channels — a WhatsApp group, an in-person briefing, a partner organisation. Once they have completed the activity, they receive a verification link and come to Yoma specifically to claim their credential and Zlto.
+
+If they do not yet have a Yoma account, they create one at this point — motivated by the immediate prospect of a reward. If they already have an account, they go straight to claiming. Driving youth directly to a reward claim is often a more effective call to action than driving them to a discovery page, because the incentive is concrete and immediate.
+
+**Choosing between the two**
+
+The right pathway depends on what the youth already knows and what motivates them at the point of contact. If they need to understand what they are signing up for, bring them to the opportunity listing first. If they have already done the work and just need to claim — or if the reward is the most compelling thing you can put in a message — send them straight to the verification link.
+
+Both pathways can be used within the same deployment, and within the same opportunity. A partner running a workshop might use a deep link to drive pre-registrations, then issue a verification link to all attendees at the end of the session to claim their credentials on the spot.
+
 ## Sequencing Considerations
 
 In practice, most implementations find it easier to start with the Opportunities side, because opportunity partners (NGOs, government agencies, learning platforms) tend to have existing programme content that can be adapted into Yoma listings relatively quickly. Reward partners often require longer lead times — procurement, voucher code arrangements, and coordination with the Zlto team.

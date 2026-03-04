@@ -38,7 +38,7 @@ The type categorises the opportunity and is recorded in the Verifiable Credentia
 
 ## Zlto Value and Duration
 
-**Zlto value** — The number of Zlto tokens youth will earn upon verified completion. This is set by the partner at listing creation and can be edited after publication. For calibration guidance, see [Setting Zlto Values](03-05-setting-zloto-values.md). As a starting reference: low-effort activities typically range from 50–150 Zlto; significant time contributions from 300–500 Zlto.
+**Zlto value** — The number of Zlto tokens youth will earn upon verified completion. This is set by the partner at listing creation and can be edited after publication. For calibration guidance, see [Setting Zlto Values](03-05-setting-zloto-values.md). As a starting reference: low-effort activities (under an hour) typically range from 25–50 Zlto; significant time contributions (a full day or more) from 150–400 Zlto.
 
 **Duration** — The expected time commitment, used to help youth decide whether this opportunity fits their availability. Be realistic — if you understate duration, youth may feel misled; if you overstate it, participation drops.
 
@@ -68,9 +68,7 @@ Before publishing, do a quick review pass:
 
 > ⚠️ **Important:** Once youth start applying and submitting completions, some fields become more disruptive to change (particularly the verification method and Zlto value). Make sure these are right before you publish. You can edit most fields after publication, but be aware of the impact on youth who are already partway through.
 
-Once your opportunity is live, you can generate a shareable deep link to it and distribute it directly to youth via WhatsApp, social media, or notice boards — bypassing the need for them to search the marketplace.
-
-![](<../.gitbook/assets/Create%20a%20sharable%20deep%20link%20to%20an%20opportunity.gif>)
+For generating and sharing verification links, see [Verification Workflows](03-06-verification-workflows.md).
 
 For ongoing management of live listings, see [Managing Opportunities](03-08-managing-opportunities.md).
 

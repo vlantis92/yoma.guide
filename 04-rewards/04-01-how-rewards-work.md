@@ -6,11 +6,11 @@ The rewards marketplace is the demand side of the Yoma ecosystem — the reason 
 
 ## The Zlto Token
 
-Every reward on Yoma is priced in **Zlto** — a blockchain-based token that youth earn by completing opportunities. Zlto is not cryptocurrency; it's a points currency with a fixed reference value of approximately **100 Zlto = 5 USD**. Youth accumulate Zlto in their account wallet, spend it in the rewards marketplace, and watch their balance update in real time.
+Every reward on Yoma is priced in **Zlto** — a blockchain-based token that youth earn by completing opportunities. Zlto is not cryptocurrency; it's a points currency with a fixed reference value of **1 USD = 45 Zlto**. Youth accumulate Zlto in their account wallet, spend it in the rewards marketplace, and watch their balance update in real time.
 
 Zlto tokens are distinct from Verifiable Credentials. Credentials are proof of what a young person has done — they live in the youth's YoID and are portable for life. Zlto is the immediate, spendable incentive. Both are issued on opportunity completion, but they serve different purposes. See [Credentials and Skills](../03-opportunities/03-07-credentials-and-skills.md) for more on the credential side.
 
-> ℹ️ **Note:** Zlto has a fixed global reference value. There is no exchange rate mechanism or market fluctuation — the value is stable by design, which makes [planning your points economy](../02-getting-started/02-04-planning-your-points-economy.md) a straightforward calculation.
+> ℹ️ **Note:** Zlto has a fixed global reference value of 1 USD = 45 Zlto. There is no exchange rate mechanism or market fluctuation — the value is stable by design, which makes [planning your points economy](../02-getting-started/02-04-planning-your-points-economy.md) a straightforward calculation.
 
 ## The Redemption Flow
 

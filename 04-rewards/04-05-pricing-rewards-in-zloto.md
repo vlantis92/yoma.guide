@@ -6,7 +6,7 @@ Reward pricing is where your points economy becomes real. Set prices well and yo
 
 ## The Reference Value
 
-Zlto has a fixed global reference value: **100 Zlto ≈ 5 USD**. This is not an exchange rate — Zlto cannot be converted to cash in most deployments — but it gives you an anchor for calibrating reward prices against real-world value.
+Zlto has a fixed global reference value: **1 USD = 45 Zlto**. This is not an exchange rate — Zlto cannot be converted to cash in most deployments — but it gives you an anchor for calibrating reward prices against real-world value.
 
 Before pricing any individual reward, make sure you've read [Planning Your Points Economy](../02-getting-started/02-04-planning-your-points-economy.md). Reward pricing and opportunity Zlto values are two sides of the same equation. They need to be designed together.
 
@@ -15,21 +15,21 @@ Before pricing any individual reward, make sure you've read [Planning Your Point
 The starting point for pricing any reward is straightforward:
 
 1. Establish the real-world value of the reward in USD (or your local currency converted to USD).
-2. Apply the reference conversion: 100 Zlto = 5 USD, or 20 Zlto per USD.
+2. Apply the reference conversion: **45 Zlto per USD**.
 3. Use the result as a baseline Zlto price.
 4. Adjust up or down based on strategic considerations (see below).
 
 **Worked example:**
 
-A BBD 10 airtime voucher (Barbados dollars, where BBD 2 = USD 1) has a real-world value of USD 5. Applying the reference rate: USD 5 × 20 = **200 Zlto**.
+A BBD 10 airtime voucher (Barbados dollars, where BBD 2 = USD 1) has a real-world value of USD 5. Applying the reference rate: USD 5 × 45 = **225 Zlto**.
 
 | Reward | Real-world value | USD equivalent | Base Zlto price |
 |--------|-----------------|----------------|----------------|
-| BBD 10 airtime voucher | BBD 10 | USD 5 | 200 Zlto |
-| USD 5 data bundle | USD 5 | USD 5 | 200 Zlto |
-| USD 10 retail voucher | USD 10 | USD 10 | 400 Zlto |
-| Free workshop place (USD 20 value) | USD 20 | USD 20 | 800 Zlto |
-| University scholarship access | High | High | 1,000–2,000 Zlto |
+| BBD 10 airtime voucher | BBD 10 | USD 5 | 225 Zlto |
+| USD 5 data bundle | USD 5 | USD 5 | 225 Zlto |
+| USD 10 retail voucher | USD 10 | USD 10 | 450 Zlto |
+| Free workshop place (USD 20 value) | USD 20 | USD 20 | 900 Zlto |
+| University scholarship access | High | High | 2,000+ Zlto |
 
 > ℹ️ **Note:** The reference conversion gives you a principled starting point, not a rigid rule. The goal is that reward prices feel fair and attainable — not that every reward perfectly mirrors its market price. A small adjustment in either direction is fine if it makes the economy feel more coherent.
 
