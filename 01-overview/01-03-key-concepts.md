@@ -52,7 +52,7 @@ Practically, this means: a Verifiable Credential issued by an NGO in Nigeria can
 
 The **Yoma Ops team**, hosted by R-Labs, is the single point of contact for all rewards-related coordination in a deployment. They work with the Zlto team (zlto.co) — an independent South African NGO that built and operates the rewards and token economy backend that Yoma runs on — to configure and manage reward listings on the marketplace and administer the Zlto token ledger.
 
-Critically, reward partners do not configure their own listings on the platform, and they do not interact directly with the Zlto team. All reward setup goes through the Yoma Ops team, who then pass the relevant details to the Zlto team for configuration. The implementing organisation manages relationships with local reward partners and coordinates with the Yoma Ops team throughout. This distinction matters for planning your operational workflow. See [Working with the Yoma Ops Team](../04-rewards/04-04-working-with-the-zloto-team.md).
+Critically, reward partners do not configure their own listings on the platform. The implementing organisation manages relationships with local reward partners and coordinates with the Yoma Ops team throughout. This distinction matters for planning your operational workflow. See [Working with the Yoma Ops Team](../04-rewards/04-04-working-with-the-zloto-team.md).
 
 ## Platform Roles
 
