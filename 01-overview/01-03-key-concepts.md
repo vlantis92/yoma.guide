@@ -16,7 +16,7 @@ YoID is distinct from the youth's Yoma account. The account is the login; the Yo
 
 **Zlto** is the digital token that youth earn by completing verified opportunities and spend on rewards. It is a closed incentive currency — not a cryptocurrency. Zlto has a fixed reference value: **1 USD = 45 Zlto**. This is used as a calibration guide for pricing opportunities and rewards; it is not an exchange rate for converting to fiat currency.
 
-Zlto is administered by the Zlto team (zlto.co), a separate organisation from Yoma/RLabs. The Zlto team manages the rewards backend and all reward listings. See [How Rewards Work](../04-rewards/04-01-how-rewards-work.md) for the full mechanics.
+Zlto is administered through the Yoma Ops team, which is hosted by R-Labs. The Yoma Ops team coordinates with the Zlto team (zlto.co) on the rewards backend and all reward listings. Partner organisations do not interact directly with the Zlto team — all requests pass through the Yoma Ops team. See [How Rewards Work](../04-rewards/04-01-how-rewards-work.md) for the full mechanics.
 
 ### Verifiable Credentials
 
@@ -48,11 +48,11 @@ Practically, this means: a Verifiable Credential issued by an NGO in Nigeria can
 
 ![Diagram showing the Self-Sovereign Identity model: youth at the centre, controlling credentials issued by multiple organisations and shared with multiple verifiers](../.gitbook/assets/ssi-concept-diagram-y5k9.png)
 
-## The Zlto Team
+## The Yoma Ops Team
 
-The **Zlto team** (zlto.co) is a separate South African NGO from Yoma/RLabs. They built and operate the rewards and token economy backend that Yoma uses. Their role in a deployment is to configure and manage reward listings on the marketplace, coordinate with reward partners, and administer the Zlto token ledger.
+The **Yoma Ops team**, hosted by R-Labs, is the single point of contact for all rewards-related coordination in a deployment. They work with the Zlto team (zlto.co) — an independent South African NGO that built and operates the rewards and token economy backend that Yoma runs on — to configure and manage reward listings on the marketplace and administer the Zlto token ledger.
 
-Critically, reward partners do not configure their own listings on the platform — all reward setup goes through the Zlto team. The implementing organisation manages relationships with local reward partners and then hands off to the Zlto team for configuration. This distinction matters for planning your operational workflow. See [Working with the Zlto Team](../04-rewards/04-04-working-with-the-zloto-team.md).
+Critically, reward partners do not configure their own listings on the platform, and they do not interact directly with the Zlto team. All reward setup goes through the Yoma Ops team, who then pass the relevant details to the Zlto team for configuration. The implementing organisation manages relationships with local reward partners and coordinates with the Yoma Ops team throughout. This distinction matters for planning your operational workflow. See [Working with the Yoma Ops Team](../04-rewards/04-04-working-with-the-zloto-team.md).
 
 ## Platform Roles
 
@@ -62,7 +62,7 @@ Three roles exist on the Yoma platform. No custom roles can be created.
 | ------------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------- |
 | **Standard User**        | Youth                | Browse and complete opportunities, earn and spend Zlto, manage their YoID and profile                          |
 | **Organisation Admin**   | Opportunity partners | Create and manage opportunities, review and approve/reject youth submissions, issue credentials                |
-| **System Administrator** | Yoma / RLabs         | Platform maintenance and configuration, user and organisation management, cross-platform aggregate data access |
+| **System Administrator** | Yoma (hosted by R-Labs) | Platform maintenance and configuration, user and organisation management, cross-platform aggregate data access |
 
 For the full permissions breakdown and how Org Admin access is granted, see [Roles and Permissions](01-05-roles-and-permissions.md).
 
