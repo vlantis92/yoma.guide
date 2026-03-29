@@ -38,7 +38,7 @@ These items require active partner recruitment. Most need several weeks — star
 | 12 | Minimum 2 reward partners recruited | [Recruiting Reward Partners](../04-rewards/04-02-recruiting-reward-partners.md) |
 | 13 | Minimum 3 reward listings live in the marketplace (including at least one accessible low-Zlto reward) | [Types of Rewards](../04-rewards/04-03-types-of-rewards.md) |
 | 14 | Airtime or data bundle reward confirmed live or in pipeline | [Recruiting Reward Partners](../04-rewards/04-02-recruiting-reward-partners.md) |
-| 15 | Reward listings reviewed with Zlto team — Zlto prices, stock counts, and descriptions confirmed | [Working with the Zlto Team](../04-rewards/04-04-working-with-the-zloto-team.md) |
+| 15 | Reward listings reviewed with Yoma Ops team — Zlto prices, stock counts, and descriptions confirmed | [Working with the Yoma Ops Team](../04-rewards/04-04-working-with-the-zloto-team.md) |
 
 ### Youth Side
 
@@ -61,7 +61,7 @@ Run through these final checks immediately before going live. If any of these ar
 | 23 | At least one Organisation Admin confirmed available to handle verifications during launch week | ✅ Confirmed |
 | 24 | Sign-up link tested and working — youth can complete full registration flow | ✅ Tested |
 | 25 | Pending Zlto behaviour communicated to ambassadors and partners (24-hour delay is normal) | ✅ Briefed |
-| 26 | Zlto team aware of launch date and on standby for any reward issues | ✅ Notified |
+| 26 | Yoma Ops team aware of launch date and on standby for any reward issues | ✅ Notified |
 
 > ⚠️ **Important:** Do not launch with an empty or near-empty rewards catalogue. Youth who sign up and find no desirable rewards will disengage immediately. A lean but functional ecosystem — three strong opportunities and two desirable rewards — is better than a larger but broken one.
 

@@ -44,13 +44,13 @@ Before finalising your values, run this balance check:
 
 **Inconsistency across partners.** If partner A pays 500 Zlto for a 20-minute quiz and partner B pays 50 Zlto for a 3-hour community activity, the economy feels arbitrary and unfair. Review all partner-set Zlto values before they go live, not after.
 
-> ⚠️ **Important:** Zlto values cannot be changed without partner coordination, and reward prices require going through the Zlto team. Build in a review step — where your team checks all values against the economy design — before any listing goes live.
+> ⚠️ **Important:** Zlto values cannot be changed without partner coordination, and reward prices require going through the Yoma Ops team. Build in a review step — where your team checks all values against the economy design — before any listing goes live.
 
 ## Coordinating with Partners
 
 Partners set the Zlto value on their own opportunity listings. Your job is to give them a clear framework and review their choices before publication. Share your effort-tier table (from Step 1 above) with every partner during onboarding, and position reviewing their Zlto value as a standard part of the opportunity setup conversation.
 
-Reward prices are set in coordination with the Zlto team. You propose the price; they configure the listing. Make sure your reward partner conversations include a provisional Zlto price before handoff — don't leave pricing to the Zlto team to guess.
+Reward prices are set in coordination with the Yoma Ops team. You propose the price; they pass it to the Zlto team who configure the listing. Make sure your reward partner conversations include a provisional Zlto price before handoff — don't leave pricing to be guessed.
 
 ## Related
 

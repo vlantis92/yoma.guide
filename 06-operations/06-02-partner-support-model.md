@@ -4,7 +4,7 @@
 > - What ongoing support opportunity and reward partners need after onboarding
 > - Training approach: platform walkthroughs, process documentation, and partner-facing guides
 > - Addressing the documentation gap: partners need process guidance, not just UI walkthroughs
-> - Support cadence: regular check-ins, troubleshooting channels, escalation paths to Yoma/RLabs
+> - Support cadence: regular check-ins, troubleshooting channels, escalation paths to Yoma
 > - Reducing support dependency over time: building partner self-sufficiency as the goal
 
 ## Related

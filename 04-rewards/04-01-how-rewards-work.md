@@ -52,17 +52,17 @@ In Nigeria, the Yoma deployment partnered with SureGifts (suregifts.com.ng) to a
 
 In the Philippines, free weekend workshops were listed as rewards. Youth spent Zlto to RSVP and secure their place. There were no voucher codes involved — the redemption confirmed attendance, and the workshop provider managed the rest. This non-contract model is a low-friction way to get reward partners live quickly, particularly where cash vouchers aren't practical.
 
-## The Zlto Team Dependency
+## The Yoma Ops Team Dependency
 
-One thing that catches new deployers off-guard: **all reward listings are created and managed by the Zlto team (zlto.co)** — a separate organisation from Yoma. Your implementing organisation doesn't configure rewards directly in the platform. Instead, you establish the relationship with a reward partner, agree the terms, and pass the details (voucher codes, Zlto pricing, stock levels) to the Zlto team, who build and manage the listing.
+One thing that catches new deployers off-guard: **all reward listings are created and managed through the Yoma Ops team** — your single point of contact for rewards coordination, hosted by R-Labs. Your implementing organisation doesn't configure rewards directly in the platform. Instead, you establish the relationship with a reward partner, agree the terms, and pass the details (voucher codes, Zlto pricing, stock levels) to the Yoma Ops team, who coordinate with the Zlto team (zlto.co) to build and manage the listing. Partner organisations never interact with the Zlto team directly.
 
-This is a key operational dependency. Plan for it, build the relationship with the Zlto team early, and factor their turnaround time into your launch timeline. [[04-04-working-with-the-zloto-team]] covers this workflow in full.
+This is a key operational dependency. Plan for it, build the relationship with the Yoma Ops team early, and factor their turnaround time into your launch timeline. [[04-04-working-with-the-zloto-team]] covers this workflow in full.
 
 ## Related
 
 There is a link under Rewards for number 1, "How Rewards Work" at the bottom, which is linking to "Work with the Zlato Teams", which should take you to 4.4 "Working with the Zlato Teams". There's an extra file called "Working with the Zlato Teams" that is outside of the rewards file. Could you delete the spare file and then relink "Working with the Zlato Team"? - [Key Concepts](../01-overview/01-03-key-concepts.md)
 - [Types of Rewards](04-03-types-of-rewards.md)
-- [Working with the Zlto Team](04-04-working-with-the-zloto-team.md)
+- [Working with the Yoma Ops Team](04-04-working-with-the-zloto-team.md)
 - [Youth Engagement Loop](../05-youth/05-05-youth-engagement-loop.md)
 
 ---

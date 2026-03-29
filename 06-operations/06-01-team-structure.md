@@ -5,7 +5,7 @@
 > - Responsibilities of each role and how they interact with the three marketplace sides
 > - Minimum viable team for a small-scale pilot vs a full national deployment
 > - Integrating Yoma responsibilities with existing team structures in your organisation
-> - The relationship between your team and the Yoma/RLabs support team
+> - The relationship between your team and the Yoma support team
 
 ## Related
 

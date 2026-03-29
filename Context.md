@@ -47,7 +47,7 @@ Yoma operates as a three-sided marketplace. All three sides must be built simult
 - **Who:** Reward partners — telcos, retailers, service providers, educational institutions
 - **What they do:** Provide products/services that youth redeem using Zlto tokens
 - **Platform term:** "Rewards marketplace"
-- **Key dependency:** All rewards are facilitated through the Zlto team (zlto.co), a separate entity. Reward partners do not directly configure rewards on the platform.
+- **Key dependency:** All rewards are facilitated through the Yoma Ops team, who coordinate with the Zlto team (zlto.co). Reward partners do not interact directly with the Zlto team or configure rewards on the platform.
 
 ### Side 3: Youth (Users)
 
@@ -65,7 +65,7 @@ Three fixed roles. No custom roles can be created.
 |---|---|---|
 |**Standard User**|Youth|Access opportunities, manage profile, track achievements, earn and spend Zlto, build YoID|
 |**Organisation Admin**|Partners|Manage organisation details, create and monitor opportunities, review and verify youth completions, issue credentials. Can add more users to their organisation — no hierarchy within organisation.|
-|**System Administrator**|Yoma team (RLabs, managed by Camila)|Access maintenance and monitoring functions, manage platform settings, oversee user management, approve organisations, see aggregate data across all of Yoma|
+|**System Administrator**|Yoma team (hosted by R-Labs, managed by Camila)|Access maintenance and monitoring functions, manage platform settings, oversee user management, approve organisations, see aggregate data across all of Yoma|
 
 ---
 
@@ -113,7 +113,7 @@ Three fixed roles. No custom roles can be created.
 
 - Partners do not need separate contracts with Yoma if covered under an existing umbrella agreement (e.g., FutureBARBADOS is linked under the UNICEF global agreement)
 - Individual partners outside umbrella agreements apply and are individually reviewed
-- No onboarding documentation or training materials currently exist from Yoma/RLabs — this is a known gap
+- No onboarding documentation or training materials currently exist from Yoma — this is a known gap
 
 ---
 
@@ -208,9 +208,9 @@ Organisation Admin creates a listing with the following:
 
 |Model|How it works|Example|
 |---|---|---|
-|**Voucher code rewards**|Implementing org or Zlto team purchases voucher codes from reward partner. Codes loaded into the rewards marketplace with a Zlto price. On redemption, the unique voucher code is automatically given to the youth.|Airtime, data bundles, product vouchers|
-|**Non-contract rewards**|Reward listed by the Zlto team without voucher codes. Redeeming with sufficient Zlto completes an RSVP form. No automated fulfilment.|Free workshops, in-person events, experiences|
-|**Cash equivalent rewards (2026)**|Monetary amount funded to Zlto team, who add a cash equivalent reward. Intention: use Chimoney to directly exchange Zlto for cash.|Direct cash transfer|
+|**Voucher code rewards**|Implementing org or Yoma Ops team purchases voucher codes from reward partner. Codes loaded into the rewards marketplace with a Zlto price. On redemption, the unique voucher code is automatically given to the youth.|Airtime, data bundles, product vouchers|
+|**Non-contract rewards**|Reward listed through the Yoma Ops team (who coordinate with Zlto) without voucher codes. Redeeming with sufficient Zlto completes an RSVP form. No automated fulfilment.|Free workshops, in-person events, experiences|
+|**Cash equivalent rewards (2026)**|Monetary amount funded to Yoma Ops team, who coordinate with Zlto to add a cash equivalent reward. Intention: use Chimoney to directly exchange Zlto for cash.|Direct cash transfer|
 
 ### Reward categories
 
@@ -231,13 +231,13 @@ Rewards on the Yoma marketplace are organised into the following categories:
 
 There is a system delay between a partner approving a completion (which triggers Zlto issuance) and the Zlto becoming available to the youth. Immediately after approval, the Zlto shows as **"pending"** in the youth's balance. This is due to automated system processing and validation checks — it does not require any manual approval or intervention. Once processing is complete (typically within 24 hours), the Zlto moves from pending to available and the youth can spend it. This is a known platform behaviour, not an error.
 
-### Working with the Zlto team
+### Working with the Yoma Ops team
 
-- **The Zlto team (zlto.co) is a separate entity.** They administer the rewards backend. All reward configuration goes through them.
-- Workflow: implementing org establishes relationship with reward partner → procures voucher codes or agrees terms → shares codes/details with the Zlto team → Zlto team creates and manages the reward listing on the marketplace
-- Zlto administers separate contracts with reward partners in some markets (e.g., South Africa — direct telco relationships)
-- In other markets (e.g., Barbados), the local implementing org holds the relationships and passes voucher codes to the Zlto team
-- Reward partners cannot currently self-service reward catalogue management — it all goes through the Zlto team
+- **The Yoma Ops team (hosted by R-Labs) is the partner-facing point of contact for all rewards.** The Zlto team (zlto.co) is a separate entity that administers the rewards backend, but implementing organisations and reward partners do not interact with the Zlto team directly.
+- Workflow: implementing org establishes relationship with reward partner → procures voucher codes or agrees terms → shares codes/details with the Yoma Ops team → Yoma Ops team passes to Zlto team → Zlto team creates and manages the reward listing on the marketplace
+- In some markets (e.g., South Africa), there are established direct relationships with reward partners coordinated through the Yoma Ops team
+- In other markets (e.g., Barbados), the local implementing org holds the relationships and passes voucher codes to the Yoma Ops team
+- Reward partners cannot currently self-service reward catalogue management — it all goes through the Yoma Ops team
 
 ---
 
@@ -304,8 +304,8 @@ There is a system delay between a partner approving a completion (which triggers
 
 ## 13. PARTNER SUPPORT MODEL
 
-- **No formal onboarding documentation or training materials currently exist from Yoma/RLabs.** This is a known and critical gap.
-- Yoma's recommendation: partner onboarding becomes a function of the local implementing organisation, not the Yoma support team in South Africa. Creating a dependency on RLabs for local partner management is not scalable.
+- **No formal onboarding documentation or training materials currently exist from Yoma.** This is a known and critical gap.
+- Yoma's recommendation: partner onboarding becomes a function of the local implementing organisation, not the Yoma support team in South Africa. Creating a dependency on the Yoma team for local partner management is not scalable.
 - **Train-the-Trainer model:**
     1. Yoma trains local Youth Champions/Ambassadors
     2. Youth Champions train opportunity and reward partners
@@ -408,9 +408,9 @@ There is a system delay between a partner approving a completion (which triggers
 
 - **Wesley Furrow** — Innovation Manager, Generation Unlimited
 - **Luke** — FutureBARBADOS
-- **Camila** — Yoma System Administrator (RLabs)
-- **Ben** — Yoma/RLabs (strategic/commercial)
-- **Sam** — Yoma/RLabs
+- **Camila** — Yoma System Administrator (hosted by R-Labs)
+- **Ben** — Yoma (hosted by R-Labs) (strategic/commercial)
+- **Sam** — Yoma (hosted by R-Labs)
 
 ---
 

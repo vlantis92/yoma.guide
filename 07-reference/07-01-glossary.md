@@ -58,16 +58,16 @@ The designed relationship between Zlto values assigned to opportunities and Zlto
 A variant of the verification link method where the partner-generated link is presented as a QR code for youth to scan — typically displayed on a screen at an in-person event. The QR code auto-claims the credential on scan, with no evidence upload required. Most secure when displayed only on-site and not distributed digitally. See [Verification Workflows](../03-opportunities/03-06-verification-workflows.md).
 
 **Reward**
-A product or service available in the Yoma rewards marketplace that youth can redeem using Zlto tokens. Rewards are sourced and listed by reward partners in coordination with the Zlto team. Types include airtime, data vouchers, food, lifestyle products, education vouchers, and more.
+A product or service available in the Yoma rewards marketplace that youth can redeem using Zlto tokens. Rewards are sourced by reward partners and listed through the Yoma Ops team. Types include airtime, data vouchers, food, lifestyle products, education vouchers, and more.
 
 **Reward partner**
-A business or organisation that provides goods or services for youth to redeem using Zlto in the rewards marketplace. Reward partners represent the demand side of the marketplace. They do not configure their listings directly on the platform — all listing management goes through the Zlto team.
+A business or organisation that provides goods or services for youth to redeem using Zlto in the rewards marketplace. Reward partners represent the demand side of the marketplace. They do not configure their listings directly on the platform — all listing management goes through the Yoma Ops team, who coordinate with the Zlto team.
 
 **Rewards marketplace**
 The youth-facing section of Yoma where available rewards are listed and redeemable using Zlto. Youth browse by category, check their balance against reward prices, and redeem directly through the platform.
 
-**RLabs**
-The South African social enterprise (rlabs.org) that built the Yoma platform and continues to maintain it. RLabs holds the System Administrator function and provides technical support, bug resolution, and organisation approval services.
+**R-Labs**
+The South African social enterprise (rlabs.org) that built the Yoma platform and continues to maintain it. R-Labs hosts the Yoma team, which holds the System Administrator function and provides technical support, bug resolution, and organisation approval services.
 
 **Self-Sovereign Identity (SSI)**
 An identity model in which individuals own and control their digital identity data, rather than it being held by an institution or platform. YoID is built on the SSI model: youth own their credentials, control who can access them, and retain them regardless of which programmes or organisations they engage with. No institution — not even Yoma — holds the data on the youth's behalf.
@@ -79,7 +79,7 @@ Descriptors applied by opportunity partners when creating a listing, indicating 
 The platform role assigned to youth. Standard Users can browse and engage with opportunities, track their progress, earn and spend Zlto, and manage their YoID profile and credential record.
 
 **System Administrator**
-The platform role held by the Yoma team (RLabs). System Administrators have access to platform-level settings, aggregate data across all of Yoma, and organisation approval workflows. Implementing organisations do not hold System Administrator access.
+The platform role held by the Yoma team (hosted by R-Labs). System Administrators have access to platform-level settings, aggregate data across all of Yoma, and organisation approval workflows. Implementing organisations do not hold System Administrator access.
 
 **Three-sided marketplace**
 The core structural model of Yoma: three interdependent groups — opportunity partners (supply), youth (users), and reward partners (demand) — coordinated through a single platform. None of the three sides functions effectively without the other two being active. See [The Three-Sided Marketplace](../01-overview/01-02-three-sided-marketplace.md).
@@ -105,8 +105,11 @@ A blockchain-based digital token that youth earn by completing opportunities on 
 **Zlto pending state**
 The brief period immediately after a completion is approved during which Zlto appears as "pending" in a youth's balance rather than available to spend. This reflects automated system processing and validation checks — it is not an error and does not require manual intervention. Pending Zlto typically becomes available within 24 hours.
 
+**Yoma Ops team**
+The operational team hosted by R-Labs that acts as the point of contact for all rewards-related coordination. Implementing organisations establish relationships with reward partners and pass voucher codes or listing details to the Yoma Ops team, who then coordinate with the Zlto team (zlto.co) to build and maintain the listings. Partner organisations do not interact with the Zlto team directly. See [Working with the Yoma Ops Team](../04-rewards/04-04-working-with-the-zloto-team.md).
+
 **Zlto team**
-The team at zlto.co — a separate organisation from Yoma and RLabs — that administers the rewards backend. All reward listings on the Yoma marketplace are created and managed by the Zlto team. Implementing organisations establish relationships with reward partners and pass voucher codes or listing details to the Zlto team, who build and maintain the listings. See [Working with the Zlto Team](../04-rewards/04-04-working-with-the-zloto-team.md).
+The team at zlto.co — a separate organisation from Yoma — that administers the rewards backend. The Zlto team works internally with the Yoma Ops team to create and manage reward listings on the Yoma marketplace. Implementing organisations and reward partners do not interact with the Zlto team directly.
 
 ---
 

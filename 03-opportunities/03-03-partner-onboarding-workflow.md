@@ -17,19 +17,19 @@ Partners register themselves on the platform. Your role is to guide them through
 2. **Uploads company registration documentation.** This is a standard legal registration document confirming the organisation is a legitimate entity. The specific document varies by country (e.g., certificate of incorporation, NPO registration, business registration).
 3. **Completes the organisation profile fields:** contact number, organisation name, mission statement, website, and other details that will appear on their public partner profile.
 4. **Submits the application for review.** The partner will receive a confirmation that the application is under review.
-5. **Yoma/RLabs reviews the application** — typically within 48 hours on business days.
+5. **Yoma (hosted by R-Labs) reviews the application** — typically within 48 hours on business days.
 6. **On approval, Organisation Admin access is granted.** The partner receives a notification and can now log in with full admin access to their organisation on Yoma.
 
 ![Step-by-step diagram of the partner registration and approval process from application to admin access granted](../.gitbook/assets/partner-onboarding-steps-c2n5.png)
 
-> ⚠️ **Important:** The 48-hour review window applies on business days in South Africa (where the Yoma/RLabs team is based). If you're onboarding partners ahead of a launch deadline, submit registrations with at least three business days of buffer. Approval can occasionally take longer if documentation is incomplete or unclear.
+> ⚠️ **Important:** The 48-hour review window applies on business days in South Africa (where the Yoma team, hosted by R-Labs, is based). If you're onboarding partners ahead of a launch deadline, submit registrations with at least three business days of buffer. Approval can occasionally take longer if documentation is incomplete or unclear.
 
 ## What Happens If Approval Is Delayed
 
 If a partner's application has not been approved after 48 business hours, check the following:
 
 - Confirm the partner uploaded the correct documentation. A blurry image, an expired document, or the wrong type of registration document are the most common causes of delay.
-- Contact the Yoma/RLabs support team directly with the organisation name and registration date, and ask them to check the application status.
+- Contact the Yoma support team directly with the organisation name and registration date, and ask them to check the application status.
 - In the meantime, the partner can still prepare their opportunity listings offline so they're ready to publish immediately on approval.
 
 ## What Organisation Admin Access Enables

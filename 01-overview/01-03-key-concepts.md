@@ -36,7 +36,7 @@ All three types follow the same listing, verification, and credential issuance p
 
 ### Reward
 
-A **reward** is any product or service that a youth can redeem from the Yoma rewards marketplace using their Zlto balance. Rewards are listed and managed through the Zlto team. Examples include airtime, data vouchers, food discounts, workshop registrations, and scholarship access. See [Types of Rewards](../04-rewards/04-03-types-of-rewards.md) for the three reward models.
+A **reward** is any product or service that a youth can redeem from the Yoma rewards marketplace using their Zlto balance. Rewards are listed and managed through the Yoma Ops team, in coordination with the Zlto team. Examples include airtime, data vouchers, food discounts, workshop registrations, and scholarship access. See [Types of Rewards](../04-rewards/04-03-types-of-rewards.md) for the three reward models.
 
 ## Self-Sovereign Identity (SSI)
 

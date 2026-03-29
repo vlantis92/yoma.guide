@@ -61,7 +61,7 @@ The base calculation is a starting point. Adjust the Zlto price upward or downwa
 
 Reward pricing cannot be set in isolation. It needs to be coordinated with:
 
-- **The Zlto team** — who create and manage listings. Agree the Zlto price with them before the listing goes live. Don't assume they'll set a price on your behalf.
+- **The Yoma Ops team** — who coordinate listings with Zlto. Agree the Zlto price with them before the listing goes live. Don't assume they'll set a price on your behalf.
 - **Your opportunity partners** — if partners are setting their own Zlto values, review them against your reward prices. A partner who sets every opportunity at 10 Zlto will frustrate youth who can see rewards starting at 200 Zlto.
 - **Your implementing organisation's M&E goals** — if funders want to see specific engagement levels, reward pricing directly affects participation rates.
 
@@ -69,13 +69,13 @@ Reward pricing cannot be set in isolation. It needs to be coordinated with:
 
 Reward prices aren't permanent. Once your deployment is live, watch redemption data. Rewards with very high redemption rates relative to supply may need a price increase to manage stock. Rewards that rarely get redeemed may be priced too high, or simply not relevant to your youth demographic.
 
-Build a pricing review into your quarterly operational rhythm. Coordinate any changes with the Zlto team — listing updates go through them, as covered in [Working with the Zlto Team](04-04-working-with-the-zloto-team.md).
+Build a pricing review into your quarterly operational rhythm. Coordinate any changes with the Yoma Ops team — listing updates go through them, as covered in [Working with the Yoma Ops Team](04-04-working-with-the-zloto-team.md).
 
 ## Related
 
 - [Planning Your Points Economy](../02-getting-started/02-04-planning-your-points-economy.md)
 - [Setting Zlto Values](../03-opportunities/03-05-setting-zloto-values.md)
-- [Working with the Zlto Team](04-04-working-with-the-zloto-team.md)
+- [Working with the Yoma Ops Team](04-04-working-with-the-zloto-team.md)
 - [Types of Rewards](04-03-types-of-rewards.md)
 
 ---

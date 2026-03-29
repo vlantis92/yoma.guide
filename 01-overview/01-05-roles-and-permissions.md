@@ -10,7 +10,7 @@ The Yoma platform has three fixed roles. Understanding what each role can do —
 | --- | --- | --- |
 | **Standard User** | Youth | Browse and complete opportunities, earn and spend Zlto, manage YoID and profile |
 | **Organisation Admin** | Opportunity partners (and the implementing organisation) | Create and manage opportunities, review youth submissions, approve or reject completions, issue credentials |
-| **System Administrator** | Yoma / RLabs | Platform configuration, user and organisation management, aggregate data access across all of Yoma |
+| **System Administrator** | Yoma (hosted by R-Labs) | Platform configuration, user and organisation management, aggregate data access across all of Yoma |
 
 No custom roles can be created. The platform has no mechanism for intermediate permissions — for example, a "read-only partner viewer" or a "youth team lead" with partial admin access. What you see above is the full permission model.
 
@@ -46,7 +46,7 @@ Organisation Admins cannot see data from other organisations, access platform-wi
 
 ## System Administrator
 
-System Administrator access is held by the Yoma team at RLabs, currently managed by Camila. This role is not granted to implementing organisations or partners. System Administrators can:
+System Administrator access is held by the Yoma team (hosted by R-Labs), currently managed by Camila. This role is not granted to implementing organisations or partners. System Administrators can:
 
 - Access platform maintenance and monitoring functions
 - Manage platform-wide settings

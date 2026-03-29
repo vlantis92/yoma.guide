@@ -5,15 +5,15 @@
 > **Before you begin:**
 > - Your implementing organisation must be registered and approved on yoma.world — see [Setting Up Your Organisation](02-02-setting-up-your-organisation.md)
 > - You need Organisation Admin access to your Yoma account
-> - Contact the Yoma team at RLabs to request staging environment access before starting — see below
+> - Contact the Yoma team to request staging environment access before starting — see below
 
-Testing your deployment end-to-end before going live is the difference between a confident launch and a chaotic one. This article covers how to access the Yoma staging environment, what to test, and what to confirm with the Zlto team before your first youth signs up.
+Testing your deployment end-to-end before going live is the difference between a confident launch and a chaotic one. This article covers how to access the Yoma staging environment, what to test, and what to confirm with the Yoma Ops team before your first youth signs up.
 
 ## Requesting Staging Access
 
-Yoma has a staging environment separate from the live yoma.world platform. Access to staging needs to be arranged directly with the Yoma team at RLabs — it is not available by self-service sign-up.
+Yoma has a staging environment separate from the live yoma.world platform. Access to staging needs to be arranged directly with the Yoma team — it is not available by self-service sign-up.
 
-To request access, contact the Yoma team (via your RLabs or UNICEF/GenU point of contact) and confirm:
+To request access, contact the Yoma team (via your UNICEF/GenU point of contact) and confirm:
 
 - Your organisation's name and the account already registered on the live platform
 - The names and email addresses of the team members who need staging access
@@ -39,7 +39,7 @@ Test the full end-to-end flow for both the opportunity side and the reward side.
 
 ### Reward Flow
 
-8. **Confirm with the Zlto team** that at least one test reward is listed in the staging environment with a Zlto price the youth test account can reach.
+8. **Confirm with the Yoma Ops team** that at least one test reward is listed in the staging environment with a Zlto price the youth test account can reach.
 9. **Navigate to the rewards marketplace** as the youth account and confirm the reward is visible.
 10. **Redeem the reward** and confirm the Zlto deduction from the balance.
 11. **Confirm fulfilment** — for a voucher code reward, check the code is delivered; for a non-contract reward, confirm the RSVP is registered.
@@ -74,7 +74,7 @@ Do not proceed to launch until all 13 items are confirmed. Any failures should b
 
 If staging access cannot be arranged, you can test a subset of the critical flows on the live platform using dedicated test accounts. This is less ideal — test data will appear in your live analytics — but it covers the essentials.
 
-On live, you can test: registration, opportunity creation, completion submission, approval, Zlto pending behaviour, and credential issuance. You cannot test reward redemption on live without creating a real reward listing and spending real Zlto, which is why coordinating with the Zlto team on staging is preferable.
+On live, you can test: registration, opportunity creation, completion submission, approval, Zlto pending behaviour, and credential issuance. You cannot test reward redemption on live without creating a real reward listing and spending real Zlto, which is why coordinating with the Yoma Ops team on staging is preferable.
 
 > 💡 **Tip:** Keep a record of any test accounts created on the live platform (name them clearly, e.g. "Test User — Pre-launch"). Once launch is complete, you can identify and exclude these accounts from your reporting data.
 
@@ -83,7 +83,7 @@ On live, you can test: registration, opportunity creation, completion submission
 - [Deployment Checklist](02-01-deployment-checklist.md)
 - [Creating an Opportunity](../03-opportunities/03-04-creating-an-opportunity.md)
 - [Verification Workflows](../03-opportunities/03-06-verification-workflows.md)
-- [Working with the Zlto Team](../04-rewards/04-04-working-with-the-zloto-team.md)
+- [Working with the Yoma Ops Team](../04-rewards/04-04-working-with-the-zloto-team.md)
 
 ---
 

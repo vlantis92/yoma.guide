@@ -2,7 +2,7 @@
 
 *Last updated: February 2026*
 
-Not all rewards work the same way. Yoma supports three distinct reward models, each with different operational requirements, fulfilment mechanics, and partner implications. Choosing the right model — or the right mix — for your market will shape how you recruit partners and coordinate with the Zlto team.
+Not all rewards work the same way. Yoma supports three distinct reward models, each with different operational requirements, fulfilment mechanics, and partner implications. Choosing the right model — or the right mix — for your market will shape how you recruit partners and coordinate with the Yoma Ops team.
 
 ## The Three Reward Models
 
@@ -12,7 +12,7 @@ Not all rewards work the same way. Yoma supports three distinct reward models, e
 
 This is the most common model and the one with the most seamless youth experience.
 
-The implementing organisation (or sometimes the Zlto team directly) purchases a batch of voucher codes from the reward partner. These codes are loaded into the rewards marketplace, each paired with a Zlto price. When a youth redeems a reward, a unique code is automatically delivered to them — no manual fulfilment required.
+The implementing organisation (or sometimes the Yoma Ops team) purchases a batch of voucher codes from the reward partner. These codes are loaded into the rewards marketplace, each paired with a Zlto price. When a youth redeems a reward, a unique code is automatically delivered to them — no manual fulfilment required.
 
 **Good for:** Airtime and data bundles, retail gift vouchers, product discounts, food and beverage offers — anything that can be tokenised into a redeemable code.
 
@@ -22,7 +22,7 @@ The implementing organisation (or sometimes the Zlto team directly) purchases a 
 
 ### Model 2: Non-Contract Rewards
 
-Non-contract rewards are listed in the marketplace without any voucher codes. Instead, redemption serves as an RSVP or expression of interest. The Zlto team creates the listing; when a youth redeems it, they complete a form, and fulfilment is handled outside the platform.
+Non-contract rewards are listed in the marketplace without any voucher codes. Instead, redemption serves as an RSVP or expression of interest. The Yoma Ops team coordinates the listing with Zlto; when a youth redeems it, they complete a form, and fulfilment is handled outside the platform.
 
 **Good for:** Free workshop places, event access, in-person experiences, mentorship sessions, and services where capacity is limited and attendance is the delivery mechanism.
 
@@ -34,7 +34,7 @@ Non-contract rewards are listed in the marketplace without any voucher codes. In
 
 ### Model 3: Cash Equivalent Rewards (2026)
 
-This model is in development and planned for release in 2026 via a Chimoney integration. The implementing organisation funds a monetary amount to the Zlto team, who list a cash equivalent reward. Youth who redeem it receive a direct cash transfer in exchange for their Zlto balance.
+This model is in development and planned for release in 2026 via a Chimoney integration. The implementing organisation funds a monetary amount to the Yoma Ops team, who coordinate with Zlto to list a cash equivalent reward. Youth who redeem it receive a direct cash transfer in exchange for their Zlto balance.
 
 **Good for:** Deployments where youth need liquid value rather than specific products — particularly relevant in markets where the rewards catalogue is thin or where supplementing livelihoods is an explicit programme goal.
 
@@ -54,12 +54,12 @@ Most deployments use a mix of all three — or at least the first two. A useful 
 | Livelihood supplementation                                   | Cash equivalent rewards (from 2026)                      |
 | Encouraging specific behaviours (event attendance, training) | Non-contract rewards for those specific activities       |
 
-All reward listings are configured by the Zlto team regardless of which model you use. See [Working with the Zlto Team](04-04-working-with-the-zloto-team.md) for how the coordination workflow differs between models.
+All reward listings are configured through the Yoma Ops team regardless of which model you use. See [Working with the Yoma Ops Team](04-04-working-with-the-zloto-team.md) for how the coordination workflow differs between models.
 
 ## Related
 
 - [How Rewards Work](04-01-how-rewards-work.md)
-- [Working with the Zlto Team](04-04-working-with-the-zloto-team.md)
+- [Working with the Yoma Ops Team](04-04-working-with-the-zloto-team.md)
 - [Pricing Rewards in Zlto](04-05-pricing-rewards-in-zloto.md)
 - [Roadmap Features](../07-reference/07-04-roadmap-features.md)
 

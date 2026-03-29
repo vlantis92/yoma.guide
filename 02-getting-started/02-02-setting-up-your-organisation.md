@@ -13,7 +13,7 @@ Before any opportunities can be listed or youth engaged, your implementing organ
 1. **Navigate to yoma.world/organisations** and begin the registration form.
 2. **Upload your company registration document.** This is required to verify that your organisation is a legitimate legal entity. Acceptable documents include company certificates, NGO registration certificates, or equivalent official documentation.
 3. **Complete the organisation profile fields.** These include your organisation's name, contact number, mission statement, and other descriptive information about your work.
-4. **Submit the application.** Your submission goes to the Yoma System Administrator team at RLabs for review.
+4. **Submit the application.** Your submission goes to the Yoma System Administrator team (hosted by R-Labs) for review.
 5. **Await approval.** Applications are reviewed within 48 business hours. You'll receive confirmation via email when your account is approved.
 6. **Access granted.** The person who submitted the application receives Organisation Admin access. You can then log in and begin configuring your profile and creating opportunities.
 
@@ -30,11 +30,11 @@ Once approved, your Organisation Admin account can:
 - Review youth submission evidence and approve or reject completions
 - Add additional Organisation Admin users to your organisation
 
-Your account does not give you access to other organisations' data or to platform-wide settings — those require System Administrator access, which is held by the Yoma team at RLabs.
+Your account does not give you access to other organisations' data or to platform-wide settings — those require System Administrator access, which is held by the Yoma team (hosted by R-Labs).
 
 ## Adding Team Members
 
-Your registration creates one Org Admin account for the person who submitted. Add further team members as Organisation Admins directly from within your account settings. There is no limit on the number of admins per organisation, and no approval required from RLabs to add additional users.
+Your registration creates one Org Admin account for the person who submitted. Add further team members as Organisation Admins directly from within your account settings. There is no limit on the number of admins per organisation, and no further approval required to add additional users.
 
 From day one, have at least two Organisation Admins set up. A deployment that depends on a single admin contact creates a critical operational risk — if that person is unavailable, the verification queue stalls and youth stop receiving Zlto. See [Roles and Permissions](../01-overview/01-05-roles-and-permissions.md) for the full permissions model.
 

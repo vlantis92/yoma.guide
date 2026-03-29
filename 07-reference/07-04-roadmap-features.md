@@ -54,7 +54,7 @@ Currently, YoID data can be shared via a link for online verification, but there
 
 ### Cash Equivalent Rewards via Chimoney — 2026
 
-A third reward model is planned that allows youth to redeem Zlto for direct cash transfers, facilitated by Chimoney. Under this model, the implementing organisation funds a monetary amount to the Zlto team, who list a cash equivalent reward on the marketplace. When a youth redeems it, Chimoney handles the cash transfer directly.
+A third reward model is planned that allows youth to redeem Zlto for direct cash transfers, facilitated by Chimoney. Under this model, the implementing organisation funds a monetary amount to the Yoma Ops team, who coordinate with Zlto to list a cash equivalent reward on the marketplace. When a youth redeems it, Chimoney handles the cash transfer directly.
 
 This significantly expands the practical value of Zlto in markets where voucher-based or in-kind rewards have limited reach or relevance.
 

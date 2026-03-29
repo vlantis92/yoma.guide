@@ -16,7 +16,7 @@ When a youth completes an opportunity and has their submission verified by the p
 
 Reward partners — telcos, retailers, service providers, and educational institutions — provide products and services that youth can redeem using their Zlto balance. Examples include airtime and data vouchers, food discounts, event tickets, and even university scholarship registrations.
 
-All reward configuration goes through the Zlto team (zlto.co), a separate organisation that administers the rewards backend. The implementing organisation recruits and manages relationships with local reward partners, then coordinates with the Zlto team to get listings live on the marketplace. For the full workflow, see [Working with the Zlto Team](../04-rewards/04-04-working-with-the-zloto-team.md).
+All reward configuration goes through the Yoma Ops team, who coordinate with the Zlto team (zlto.co) to administer the rewards backend. The implementing organisation recruits and manages relationships with local reward partners, then passes details to the Yoma Ops team to get listings live on the marketplace. Partner organisations never engage with the Zlto team directly. For the full workflow, see [Working with the Yoma Ops Team](../04-rewards/04-04-working-with-the-zloto-team.md).
 
 ### Side 3: Youth (Users)
 
@@ -65,7 +65,7 @@ Both pathways can be used within the same deployment, and within the same opport
 
 ## Sequencing Considerations
 
-In practice, most implementations find it easier to start with the Opportunities side, because opportunity partners (NGOs, government agencies, learning platforms) tend to have existing programme content that can be adapted into Yoma listings relatively quickly. Reward partners often require longer lead times — procurement, voucher code arrangements, and coordination with the Zlto team.
+In practice, most implementations find it easier to start with the Opportunities side, because opportunity partners (NGOs, government agencies, learning platforms) tend to have existing programme content that can be adapted into Yoma listings relatively quickly. Reward partners often require longer lead times — procurement, voucher code arrangements, and coordination with the Yoma Ops team.
 
 Start reward partner conversations in parallel with opportunity partner recruitment — even if rewards aren't live on day one of a pilot, having confirmed partners in the pipeline is enough to communicate genuine value to youth.
 

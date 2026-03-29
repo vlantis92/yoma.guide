@@ -8,30 +8,30 @@ Deploying Yoma in a new market does not mean building new software. yoma.world i
 
 The distinction matters. When you launch Yoma in your market, you are not configuring a bespoke tool — you are standing up a local instance of a global marketplace. The platform is ready. The content, the partners, and the youth are not.
 
-This is both a strength and a constraint. The strength: you are not starting from zero on the technology. The platform is production-ready, proven across multiple countries, and free for all users and partners. The constraint: you cannot change platform features to suit local context — what the platform does is what it does. Customisation requests go to the Yoma development team at RLabs; the roadmap and development capacity are shared globally.
+This is both a strength and a constraint. The strength: you are not starting from zero on the technology. The platform is production-ready, proven across multiple countries, and free for all users and partners. The constraint: you cannot change platform features to suit local context — what the platform does is what it does. Customisation requests go to the Yoma development team (hosted by R-Labs); the roadmap and development capacity are shared globally.
 
 The practical implication is that the work of a deployment is almost entirely operational. The technical barrier is low; the ecosystem-building barrier is where the real effort sits. This guide exists because that operational work — partner recruitment, reward configuration, youth acquisition, verification management, reporting — needs to be built out in order for the technology to function. 
 
 ## What Yoma Provides
 
-RLabs and the Yoma team provide:
+Yoma (hosted by R-Labs) provides:
 
 - The platform itself (yoma.world), maintained and hosted globally
 - Technical support and bug resolution
 - System Administrator access and platform configuration
 - A global community of existing opportunity partners whose content is already listed
-- The Zlto team (zlto.co) as a reward backend partner
+- The Yoma Ops team, who coordinate with Zlto (zlto.co) as the reward backend
 - Strategic support through UNICEF and GenU's global networks
 
 ## What the Implementing Organisation Must Build
 
-![Diagram showing the split of responsibilities between Yoma/RLabs and the local implementing organisation](../.gitbook/assets/deployer-responsibility-split-d2m6.png)
+![Diagram showing the split of responsibilities between Yoma (hosted by R-Labs) and the local implementing organisation](../.gitbook/assets/deployer-responsibility-split-d2m6.png)
 
 Everything local is the implementing organisation's responsibility:
 
 **Opportunity partner network** — identifying, recruiting, onboarding, and supporting the NGOs, government agencies, learning platforms, and corporates that will list opportunities for youth in your market.
 
-**Rewards catalogue** — identifying and recruiting local reward partners (telcos, retailers, service providers), procuring voucher codes or agreeing terms, and coordinating with the Zlto team to get listings live.
+**Rewards catalogue** — identifying and recruiting local reward partners (telcos, retailers, service providers), procuring voucher codes or agreeing terms, and coordinating with the Yoma Ops team to get listings live.
 
 **Youth acquisition and engagement** — bringing young people to the platform, onboarding them, running marketing and ambassador programmes, and maintaining ongoing engagement beyond the initial sign-up period.
 
@@ -39,11 +39,11 @@ Everything local is the implementing organisation's responsibility:
 
 **Operational communications** — partner support, youth communications, re-engagement campaigns, and stakeholder reporting.
 
-None of this is automated or handled by RLabs once a local deployment is live. The implementing organisation is the full operational engine of the local ecosystem.
+None of this is automated or handled by the Yoma team once a local deployment is live. The implementing organisation is the full operational engine of the local ecosystem.
 
 ## The Implementing Organisation as Ecosystem Orchestrator
 
-The implementing organisation's role is closer to marketplace operator than to programme manager. You are not delivering a single programme — you are coordinating multiple parties (opportunity partners, reward partners, the Zlto team, government stakeholders, and youth) within a shared platform.
+The implementing organisation's role is closer to marketplace operator than to programme manager. You are not delivering a single programme — you are coordinating multiple parties (opportunity partners, reward partners, the Yoma Ops team, government stakeholders, and youth) within a shared platform.
 
 This requires a different set of skills and operational infrastructure than running a single-partner programme. See [Team Structure](../06-operations/06-01-team-structure.md) for what this means in practice.
 

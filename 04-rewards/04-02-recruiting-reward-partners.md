@@ -33,7 +33,7 @@ Not every category will be relevant or available in every market. Use this as a 
 
 Before approaching individual organisations, map your landscape using the stakeholder framework in [Stakeholder Mapping](../02-getting-started/02-03-stakeholder-mapping.md). Prioritise partners whose offering has broad appeal across your target youth demographic's age and income profile.
 
-![Diagram showing the reward partner recruitment pipeline from prospect identification to Zlto team handoff](../.gitbook/assets/partner-recruitment-pipeline-k9p3.png)
+![Diagram showing the reward partner recruitment pipeline from prospect identification to Yoma Ops team handoff](../.gitbook/assets/partner-recruitment-pipeline-k9p3.png)
 
 ## The Value Proposition
 
@@ -44,7 +44,7 @@ Reward partners join Yoma for different reasons depending on their sector and ma
 | **Brand visibility** | Your brand is displayed in a marketplace used by 311,000+ young people across six countries. It's visible, searchable, and associated with positive action. | Consumer brands, retailers |
 | **Youth audience access** | Youth who redeem rewards from you are already engaged, active, and motivated — a higher-quality audience than a passive ad impression. | Telcos, tech brands |
 | **CSR and social impact** | Participation in Yoma demonstrates measurable investment in youth development, contributing to verifiable SDG outcomes. | Corporates with CSR mandates, foundations |
-| **Low operational burden** | Once the reward is listed, you do nothing. The Zlto team manages the catalogue. Youth redeem independently. There's no customer service overhead on your side. | Any partner type |
+| **Low operational burden** | Once the reward is listed, you do nothing. The Yoma Ops team manages the catalogue in coordination with Zlto. Youth redeem independently. There's no customer service overhead on your side. | Any partner type |
 | **No cost to join** | The Yoma platform is completely free for reward partners. | Any partner, especially smaller organisations |
 
 > ℹ️ **Note:** In South Africa, a unique legislative arrangement allows participating companies to write off the value of youth redemptions as tax-deductible in-kind donations. This has made the SA rewards marketplace one of the most extensive in any Yoma deployment — over 100 participating companies. This mechanism relies on specific South African tax law and is not directly replicable in other markets. In other deployments, the value proposition rests on CSR alignment and audience access rather than tax incentive.
@@ -61,25 +61,25 @@ For cold outreach, lead with the social mission rather than the platform mechani
 
 *"How do we know youth will actually redeem from us?"* — Point to the incentive structure: youth are earning Zlto specifically to spend it. Redemption rates on well-priced, relevant rewards are consistently high in existing deployments.
 
-*"What's the ongoing commitment?"* — For voucher code rewards, the commitment is supplying codes in batches as stock depletes. For non-contract rewards, it's as simple as confirming event or workshop capacity. The Zlto team handles the rest.
+*"What's the ongoing commitment?"* — For voucher code rewards, the commitment is supplying codes in batches as stock depletes. For non-contract rewards, it's as simple as confirming event or workshop capacity. The Yoma Ops team handles the rest.
 
 ## What to Agree Before Handoff
 
-Before passing a reward partner to the Zlto team, make sure you've aligned on the following:
+Before passing a reward partner to the Yoma Ops team, make sure you've aligned on the following:
 
 1. **Reward type** — voucher code, non-contract, or (from 2026) cash equivalent. See [Types of Rewards](04-03-types-of-rewards.md) for the full breakdown.
 2. **Reward description and details** — what youth are actually receiving, any eligibility conditions, and how fulfilment works.
 3. **Initial stock or capacity** — how many units are available at launch.
-4. **Zlto pricing** — a provisional price, which you'll finalise with the Zlto team. See [Pricing Rewards in Zlto](04-05-pricing-rewards-in-zloto.md) for guidance.
+4. **Zlto pricing** — a provisional price, which you'll finalise with the Yoma Ops team. See [Pricing Rewards in Zlto](04-05-pricing-rewards-in-zloto.md) for guidance.
 5. **Replenishment cadence** — how often the partner will supply new codes or confirm continued capacity.
 
-Once these are agreed, hand over to the Zlto team. The partner doesn't need to do anything on the platform directly. See [Working with the Zlto Team](04-04-working-with-the-zloto-team.md) for what happens next.
+Once these are agreed, hand over to the Yoma Ops team. The partner doesn't need to do anything on the platform directly. See [Working with the Yoma Ops Team](04-04-working-with-the-zloto-team.md) for what happens next.
 
 ## Related
 
 - [Stakeholder Mapping](../02-getting-started/02-03-stakeholder-mapping.md)
 - [Types of Rewards](04-03-types-of-rewards.md)
-- [Working with the Zlto Team](04-04-working-with-the-zloto-team.md)
+- [Working with the Yoma Ops Team](04-04-working-with-the-zloto-team.md)
 - [Reward Partner Examples](04-06-reward-partner-examples.md)
 
 ---
